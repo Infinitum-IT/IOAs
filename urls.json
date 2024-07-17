@@ -99,6 +99,11 @@
     "https://pupo.eastus.cloudapp.azure.com/functionalStatus/PRNA75i1g2Xk5X8m6UqkgLbS...",
     "http://210.114.11.173:806/load",
     "http://47.97.100.26:8000/match",
-    "http://120.78.74.63:11111/visit.js"
+    "http://120.78.74.63:11111/visit.js",
+    "https://202.144.192.114/en_US/all.js",
+    "https://202.144.192.114/g.pixel",
+    "https://47.116.211.207/match",
+    "http://47.109.192.10/load",
+    "http://124.70.154.188/ca"
   ]
 }
