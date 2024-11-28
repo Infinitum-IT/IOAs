@@ -260,3 +260,6 @@ https://og1.in/2Rxzb3
 http://192.3.220.22/xampp/en/cookienetbookinetcahce.hta
 http://192.3.220.22/hFXELFSwRHRwqbE214.bin
 http://192.3.220.22/430/dllhost.exe
+http://encrypt.indsc.me/api.php?type=encrypt
+https://github.com/msdnedgesupport
+https://raw.githubusercontent.com/msdnedgesupport
