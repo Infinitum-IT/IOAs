@@ -310,3 +310,11 @@ http://bitbucket.org/browserupdater/download/downloads/BrowserUpdater.exe
 http://bitbucket.org/cleopatrall/upds/downloads/updater.exe
 http://bitbucket.org/stoptrackme/updatings/downloads/UpdateMe.exe
 http://bitbucket.org/napoleon_bonaparte/browtool/downloads/BrowserUpdateTool.exe
+http://172.104.133.212:8880/new_analytics
+http://172.104.133.212:8880/opened
+http://172.104.133.212:8880/metrics
+http://172.104.133.212:8880/sede
+http://179.60.149.194:8080/fdgjsdmt
+http://139.162.179.170:8080
+https://deliverynetwork.observer/qfast/UpdateMC.zip
+https://deliverynetwork.observer/qfast/AdditionalFilesForMeet.zip
