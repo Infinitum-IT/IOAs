@@ -471,3 +471,7 @@ http://213.209.129.92/bins/owari.i486
 http://213.209.129.92/bins/owari.i586
 http://155.138.230.16/bins/mips
 http://155.138.230.16/bins/mipsel
+https://urlhaus.abuse.ch/url/3492773/
+https://urlhaus.abuse.ch/url/3492772/
+https://urlhaus.abuse.ch/url/3492770/
+https://urlhaus.abuse.ch/url/3492755/
