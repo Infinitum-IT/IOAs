@@ -5588,4 +5588,44 @@
     <domain>keenram.signeuf.shop</domain>
     <domain>mbvnsmrtlnk1.xyz</domain>
     <domain>pinkfels.shop</domain>
+    <domain>auto-updater.azurewebsites.net</domain>
+    <domain>background-update.azurewebsites.net</domain>
+    <domain>cache-cleaner-check-111.azurewebsites.net</domain>
+    <domain>cache-cleaner-check-805.azurewebsites.net</domain>
+    <domain>cache-cleaner-check-926.azurewebsites.net</domain>
+    <domain>cache-cleaner-check.azurewebsites.net</domain>
+    <domain>cache-managment.northeurope.cloudapp.azure.com</domain>
+    <domain>check-security-update.azurewebsites.net</domain>
+    <domain>group-policy-update.azurewebsites.net</domain>
+    <domain>hyperv-heartbeat-service.azurewebsites.net</domain>
+    <domain>hyperv-time-sync.azurewebsites.net</domain>
+    <domain>patch-provider-247.azurewebsites.net</domain>
+    <domain>patch-provider-597.azurewebsites.net</domain>
+    <domain>patch-provider-745.azurewebsites.net</domain>
+    <domain>patch-provider.azurewebsites.net</domain>
+    <domain>update-health-service.azurewebsites.net</domain>
+    <domain>verify-publisher.azurewebsites.net</domain>
+    <domain>check-available-tasks.azurewebsites.net</domain>
+    <domain>check-available-tasks-677.azurewebsites.net</domain>
+    <domain>check-available-tasks-671.azurewebsites.net</domain>
+    <domain>check-available-tasks-798.azurewebsites.net</domain>
+    <domain>tkcbusiness.com</domain>
+    <domain>safrangroup-careers.com</domain>
+    <domain>telespazio-careers.com</domain>
+    <domain>send-feedback-413.azurewebsites.net</domain>
+    <domain>send-feedback.azurewebsites.net</domain>
+    <domain>send-feedback-838.azurewebsites.net</domain>
+    <domain>blogvolleyballstatus.azurewebsites.net</domain>
+    <domain>marineblogapi.azurewebsites.net</domain>
+    <domain>tnlsowki.westus3.cloudapp.azure.com</domain>
+    <domain>blogvolleyballstatusapi.azurewebsites.net</domain>
+    <domain>cashcloudservices.com</domain>
+    <domain>turkairline.azurewebsites.net</domain>
+    <domain>xboxplayservice.com</domain>
+    <domain>ilengineeringrssfeed.azurewebsites.net</domain>
+    <domain>vscodeupdater.azurewebsites.net</domain>
+    <domain>hiringarabicregion.azurewebsites.net</domain>
+    <domain>tnlsowkis.westus3.cloudapp.azure.com</domain>
+    <domain>services-update-check.azurewebsites.net</domain>
+    <domain>send-feedback-296.azurewebsites.net</domain>
 </domains>
