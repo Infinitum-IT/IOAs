@@ -5627,6 +5627,7 @@
     "hiringarabicregion.azurewebsites.net",
     "tnlsowkis.westus3.cloudapp.azure.com",
     "services-update-check.azurewebsites.net",
-    "send-feedback-296.azurewebsites.net"
+    "send-feedback-296.azurewebsites.net",
+    "npmjs.help"
   ]
 }

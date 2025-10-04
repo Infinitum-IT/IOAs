@@ -5628,4 +5628,5 @@
     <domain>tnlsowkis.westus3.cloudapp.azure.com</domain>
     <domain>services-update-check.azurewebsites.net</domain>
     <domain>send-feedback-296.azurewebsites.net</domain>
+    <domain>npmjs.help</domain>
 </domains>
