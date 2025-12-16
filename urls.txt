@@ -3,6 +3,7 @@ http://2controller.online/videos.html
 http://3controller.ru/videos.html
 http://4controller.online/videos.html
 http://4controller.ru/videos.html
+http://5.26.195.93:59136/mozi.a
 http://5.35.36.211/cadb6378d4b16104.php
 http://5controller.online/videos.html
 http://5controller.ru/videos.html
@@ -63,6 +64,7 @@ http://51.81.104.115/nuts/poop
 http://54.67.45.193/ptj
 http://58.174.48.169:43308/i
 http://59.96.143.161:47701/i
+http://60.23.73.197:42040/i
 http://60.204.186.143:10010/pixel.gif
 http://61.49.60.222:81/av.scr
 http://61.137.153.166:53819/bin.sh
@@ -105,6 +107,7 @@ http://95.91.4.185:12322/video.lnk
 http://95.164.17.212/best.msi
 http://101.35.40.78/visit.js
 http://101.43.96.246/j.ad
+http://102.214.109.147:59506/i
 http://103.26.14.91:8099/pixel.gif
 http://103.77.241.42/1.sh
 http://103.77.241.42/huhu/titanjr.arc
@@ -123,6 +126,7 @@ http://103.77.241.42/huhu/titanjr.sh4
 http://103.77.241.42/huhu/titanjr.spc
 http://103.77.241.42/huhu/titanjr.x86_32
 http://103.77.241.42/huhu/titanjr.x86_64
+http://103.77.241.135/mpsl
 http://103.187.26.176/a78550e6101938c7f5e8bfb170db4db2/command.asp
 http://103.187.26.176/a78550e6101938c7f5e8bfb170db4db2/listen.asp
 http://103.187.26.176/a78550e6101938c7f5e8bfb170db4db2/result.asp
@@ -167,7 +171,9 @@ http://113.189.104.62:9989/photo.scr
 http://113.189.104.62:9989/video.scr
 http://113.231.100.222:55835/bin.sh
 http://113.231.100.222:55835/i
+http://113.238.71.125:40072/i
 http://114.76.199.159:8081/photo.lnk
+http://115.49.64.232:37020/i
 http://115.50.70.57:50528/i
 http://115.50.92.82:56800/bin.sh
 http://115.50.92.82:56800/i
@@ -215,6 +221,8 @@ http://129.226.214.48:10025/pixel.gif
 http://139.9.105.56:8033/updates.rss
 http://139.162.179.170:8080
 http://139.180.136.28:8888/image/ixsbjoskppq
+http://143.20.37.250/fantazy.m68k
+http://144.48.121.4:60286/i
 http://144.208.127.145/logout.php
 http://146.103.53.43/sakura.sh
 http://148.135.72.115/_/scs/mail-static/_/js/
@@ -244,6 +252,7 @@ http://176.46.152.62:5858/8088da70c9d74b18aaa9c25e7334b986_crypted_build.exe
 http://178.16.55.189/files/748049926/2vpcrpp.exe
 http://178.16.55.189/files/5089917904/fc7zg1f.exe
 http://178.16.55.189/files/5917492177/svpnpru.exe
+http://178.16.55.189/files/7693449169/x2jxjtd.exe
 http://178.16.55.189/files/7782139129/0xkmcfk.exe
 http://178.16.55.189/files/7952516244/1c6zuee.exe
 http://178.16.55.189/files/8434554557/ibbf2xv.exe
@@ -254,8 +263,10 @@ http://180.190.242.135:57688/bin.sh
 http://182.112.30.191:58008/i
 http://182.119.163.8:50642/bin.sh
 http://182.119.163.8:50642/i
+http://182.121.157.19:47437/i
 http://182.124.167.221:56843/bin.sh
 http://182.127.64.113:46143/bin.sh
+http://182.127.100.17:53807/i
 http://185.95.156.22/
 http://185.146.146.220:9989/av.lnk
 http://185.147.124.40/capcha.html
@@ -432,6 +443,8 @@ https://3zs4zdszo3lesutdbuenzvlspuh6wljj6eyntv73dxxig3bk2wcskrad.onion:15842/
 https://4d.skyf0rm.ru/cxbc4lo6
 https://4d.skyf0rm.ru/etch0c3e
 https://4jtsmu3u4yrbehjf4rzfwsswhpc7ohs4nrfnlfu3xebteeaf4uv3okyd.onion:37151/
+https://4mapc.racketloom.ru/2qf69hbq
+https://4mapc.racketloom.ru/s9ccux7j
 https://4rnzfvzybry65auecpi3n67c6ynuunvs77qpk45svyhhsj6oisibk3qd.onion:39567/
 https://5bqxmurmtkqlzis65uu22aspcuhivb6vpzpcpma5wfl5ngz2ha6oxzqd.onion:18231/
 https://5qjh.frostn0de.ru/c5uhfzqr
@@ -444,7 +457,11 @@ https://6w5w.darksh1ft.ru/5hefuxny
 https://6w5w.darksh1ft.ru/9r3s86z5
 https://7kqic.corest0rm.ru/77zn0lr8
 https://7kqic.corest0rm.ru/zb4v4pqs
+https://9luf.hexapulse.ru/ip55xdho
+https://9luf.hexapulse.ru/mw2h1wqn
 https://9qe.daginvusc.com/miuxeh/
+https://9sct2.sp1nterpad.ru/bu6qi1rz
+https://9sct2.sp1nterpad.ru/nlhufjo6
 https://20.102.88.44/dpixel
 https://22.mbvnsmrtlnk1.xyz/?secret=ova4aumm
 https://28p.frostn0de.ru/rha6od2w
@@ -546,12 +563,15 @@ https://bluetreewater.com/data/useraccount.aspx
 https://bluetreewater.com/index.aspx
 https://bluetreewater.com/useraccount.aspx
 https://boltsreach.com/go/83afb110-50f2-4b29-a93e-15e37801c7e2
+https://bq.c0pperknit.ru/1eq7wa2h
+https://bq.c0pperknit.ru/yuuaqzyf
 https://bridge.stormm1nt.ru/37c40z63
 https://bridge.stormm1nt.ru/r1zm9x39
 https://bryncoed.com/9x7x.js
 https://bryncoed.com/js.php
 https://bv251.skyf0rm.ru/bp4gkf7m
 https://bv251.skyf0rm.ru/rylyi212
+https://bvki6.fogtangent.ru/092appk4
 https://bymett.com/data/index.aspx
 https://bymett.com/data/useraccount.aspx
 https://c.statcounter.com/12959680/0/f1596509/1/
@@ -649,6 +669,8 @@ https://fineclouding.com/go/83a7f27f-d3ae-4935-b854-fdf492984ed3
 https://fineclouding.com/go/134f0807-4dc8-4a61-895c-acf5107b611a
 https://fineclouding.com/go/e331e010-c671-4ea5-83c7-7518b2f08b7b
 https://firebasestorage.googleapis.com/v0/b/phone-4ca00.appspot.com/o/cpweb8960.html?alt=media&token=131d2f01-ff15-452f-829a-6ad34f4823d8
+https://fizz.sp1nterpad.ru/cchfe7pu
+https://fizz.sp1nterpad.ru/rlnqkbay
 https://forge.skysh1ft.ru/c77s1zga
 https://forge.skysh1ft.ru/s1maf323
 https://forjeh-ir6dta1409.edgeone.app/index.html
@@ -689,7 +711,11 @@ https://helpmemoverand.com/go/a895c485-d572-4e80-bd52-9dd3540c81d9
 https://helpmemoverand.com/go/dc3ae9c2-de16-4dc0-b614-b0b36b81f319
 https://houstoncomputerrepairgeeks.com
 https://hq5s.softc0re.ru/rrtwyvn9
+https://hshvw.racketloom.ru/6uhelpmo
+https://hshvw.racketloom.ru/82l8izbs
 https://ia601702.us.archive.org/9/items/optimized_msi_20251214_2105/optimized_msi.png
+https://ikzct.sp1nterpad.ru/dy1ns67q
+https://ikzct.sp1nterpad.ru/m9m6im86
 https://impressflow.com/go/f7d8c7fb-c416-4972-94cd-2f1ede1bac38
 https://insigelo.com/go/0e94e3bf-65a0-476a-b00e-5ababc6ff856
 https://insigelo.com/go/96f84023-dd9d-4331-9788-5705babb7f0c
@@ -715,6 +741,10 @@ https://light.mistw0rk.ru/yjbw8vun
 https://link.b4a.app/download.html?search=chjvamvjdhmgaw4gtglieweuemlw
 https://linkspans.com/go/7110a328-a727-4c2c-9e88-3a71adf76cb1
 https://lmsx6.lightw1nd.ru/5e1aoz4t
+https://loom.quartz-nibble.ru/brzab8dm
+https://loom.quartz-nibble.ru/rzw3bp2v
+https://lq4f.racketloom.ru/k46bjix8
+https://lq4f.racketloom.ru/r4kjqj9d
 https://lreindia.com
 https://m8ke.agency
 https://m9pld.mistw0rk.ru/zh0eaewv
@@ -744,6 +774,8 @@ https://node.skysh1ft.ru/5747r09c
 https://node.skysh1ft.ru/iymy78of
 https://nova.darkf1eld.ru/51svjv48
 https://nova.darkf1eld.ru/ihf5zhug
+https://nova.quartz-nibble.ru/5b0h9088
+https://nova.quartz-nibble.ru/h4setrk7
 https://nowuseemi.com/go/e594bfab-e401-456c-a4fc-63d70055ff5b
 https://o3n.corest0rm.ru/6jpqppgd
 https://o3n.corest0rm.ru/dahon24f
@@ -762,6 +794,8 @@ https://panplanning.com
 https://passatempobasico.com.br/wine.php
 https://pastebin.com/raw/fxzr3jet
 https://pastebin.com/raw/zggki6qq
+https://patch.sp1nterpad.ru/f4yx91og
+https://patch.sp1nterpad.ru/yujxsjs1
 https://pingnetnetwork.co.ke//kkkkkkktttt/sbebobless.smi
 https://pinkfels.shop/?t=json&i=01e077f41c42710c07820d85fff21c63&a=11341608982415
 https://pinkfels.shop/?t=json\u0026i=01e077f41c42710c07820d85fff21c63\u0026a=11341608982415
@@ -799,6 +833,8 @@ https://qb3oaq.bl.files.1drv.com/y4mhrkxcvsnkeazyl8ksgjxxw3y4efgcytss_t5wi6fefz3
 https://qm9.c-3dax.ru/0cbq19wrw4.sh
 https://quickresource.xyz/vwbhlwjg/
 https://r-lien.com
+https://r1n.quartz-nibble.ru/s39iaxk2
+https://r1n.quartz-nibble.ru/xs83jvki
 https://r9.rainst0rm.ru/cm8muk8b
 https://r9.rainst0rm.ru/x9vvmgfd
 https://rachelsvineyardkc.org
@@ -868,7 +904,11 @@ https://smartlinkoffer.com/go/15ef9db0-585b-4c85-9ffc-a2b6e81c4bfa
 https://smartlinkoffer.com/go/6754805d-41c5-46b7-929f-6655b02fce2c
 https://smartlinkoffer.com/go/b11f973d-01d4-4a5b-8af3-139daaa5443f
 https://solidarityinsaya.com
+https://spark.racketloom.ru/5pi1xq97
+https://spark.racketloom.ru/fgbhps7a
 https://spotconningo.com/go/3119e6d0-9df0-4116-816f-0ff62631557b
+https://squx.fogtangent.ru/r8kjv8ka
+https://squx.fogtangent.ru/tcb97yfw
 https://sri-lanka-traumurlaub.com
 https://startingdestine.com/go/ad3b65a2-9255-4017-a1e1-087bcca4e2ef
 https://steamcommunity.com/id/tfy5d6gohu8tgy687r7
@@ -905,6 +945,8 @@ https://techstalone.com/go/9626641b-871b-45e1-b360-84e2767326cc
 https://techstalone.com/go/d3aa1081-e2fd-4bc5-b168-5502eae928f1
 https://telegram.me/ahnadar
 https://tgk.clashofmaps.vip/
+https://thrumble.quartz-nibble.ru/4v1rsbvf
+https://thrumble.quartz-nibble.ru/aiab7yro
 https://tikutokis.sbs/tiktok18.apk
 https://tinyurl.com/2fhbvwus
 https://tk0001.jiayoutiktok.top/
@@ -912,6 +954,8 @@ https://to.vzj1o.ru/x8absz9v31.md5
 https://topawardpicks.top/?u=7mkpd0d&o=ex5whk5&t=<encrypted-ref-demin>
 https://toppry.com/owa/dc53vcl3ek3conin12uxmxxlbr44aswvgi
 https://totalsecllc.com
+https://trace.c0pperknit.ru/478ixqt1
+https://trace.c0pperknit.ru/gs703hvs
 https://tracksvista.com/go/b67f38ca-952b-44e3-b463-126a325e85c6
 https://trailsift.com/go/5c881316-6dd0-46cb-b9aa-2d72b614d026
 https://transfer.sh/get/3twvo9/evbccj.png
@@ -923,6 +967,8 @@ https://tunneloid.com/go/520c3874-eeb8-4f5c-bc79-849759f17715
 https://tuto.tuggest.space/?utm_medium=9eb2bcdc89976429bc64127056a4a9d5d3a2b57a&utm_campaign=cid:3088&cid=3088-0-20241201030249e6c40dc32
 https://u1.c-3dax.ru/uhmg18e6le.sh
 https://u9izog.dm.files.1drv.com/y4mksgc6jshxeckgynonzdeg42n9dxst4dfh5t6umtqb8bi9vepgnlzg7gp_-k9ly6iw0xeiuqmr8o6sk9pgqnpragvk-pxqce9pcukcgpokvxyapqoibnldb3kk94ojeev0riejfegjz1cctqqewzz0_dnn4t5ngfzrckc4zvljerfxrb5jgwm1u3gc4lesitrttv12nta3urdgshv46ecoq/autumnpark
+https://u24b.hexapulse.ru/537i6os1
+https://u24b.hexapulse.ru/ecsn06sf
 https://u31.darksh1ft.ru/22fbvyl4
 https://u31.darksh1ft.ru/c3vna2qw
 https://ugg.nigeriaafricatime.com/
@@ -935,6 +981,8 @@ https://urlhaus.abuse.ch/url/3492773/
 https://us.skysh1ft.ru/birq6gh5
 https://us.skysh1ft.ru/k7tzqmv1
 https://ustr.nouz.cn/
+https://v3xv.fogtangent.ru/jceg328g
+https://v3xv.fogtangent.ru/z4xpf0l0
 https://vanshitref.com/go/e594bfab-e401-456c-a4fc-63d70055ff5b
 https://verticbuzz.com/go/ca526b93-0797-4fd6-b107-fdf823a5badb
 https://vigaspino.com/2doc5/index.php?submissionguid=093410a5-c228-4ddf-890c-861cdc6fe5d8
@@ -949,6 +997,8 @@ https://webmail.apexrnun.com/
 https://webmail.gencoldfire.com/
 https://webmail.mastersharks.com/
 https://webmail.sturmsgroup.com/
+https://weird.fogtangent.ru/qklzpaa4
+https://weird.fogtangent.ru/so5mv3vz
 https://weston-bridge.com/i/?c3y9z2vuzxjhbczyptyyjnvpzd1vu0vsmdiwnjiwmjvvndewnjaymdmmcz04qq==n012...
 https://westreamdaily.com/go/2912600c-ec64-47fd-93cd-d7172bc29206
 https://work.cloudn0de.ru/akr39kp6
