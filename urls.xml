@@ -75,6 +75,9 @@
     <url>http://61.49.60.222:81/av.scr</url>
     <url>http://61.137.153.166:53819/bin.sh</url>
     <url>http://61.243.135.226:35366/i</url>
+    <url>http://62.60.232.42/arm4</url>
+    <url>http://62.60.232.42/dvr.sh</url>
+    <url>http://62.60.232.42/mpsl</url>
     <url>http://63.47.210.149/info.zip</url>
     <url>http://65.21.27.205:82/photo.scr</url>
     <url>http://69.30.232.227:443/cm</url>
@@ -93,6 +96,28 @@
     <url>http://85.11.144.2:2272/info.zip</url>
     <url>http://85.187.2.6:4572/info.zip</url>
     <url>http://85.239.53.219</url>
+    <url>http://86.54.42.154/bins/bins.sh</url>
+    <url>http://86.54.42.154/bins/mirai.arm</url>
+    <url>http://86.54.42.154/bins/mirai.arm5n</url>
+    <url>http://86.54.42.154/bins/mirai.arm7</url>
+    <url>http://86.54.42.154/bins/mirai.gnueabihf</url>
+    <url>http://86.54.42.154/bins/mirai.m68k</url>
+    <url>http://86.54.42.154/bins/mirai.mips</url>
+    <url>http://86.54.42.154/bins/mirai.mpsl</url>
+    <url>http://86.54.42.154/bins/mirai.ppc</url>
+    <url>http://86.54.42.154/bins/mirai.sh4</url>
+    <url>http://86.54.42.154/bins/mirai.spc</url>
+    <url>http://86.54.42.154/bins/mirai.x86</url>
+    <url>http://86.54.42.154/bins/miraint.arm</url>
+    <url>http://86.54.42.154/bins/miraint.arm5n</url>
+    <url>http://86.54.42.154/bins/miraint.arm7</url>
+    <url>http://86.54.42.154/bins/miraint.m68k</url>
+    <url>http://86.54.42.154/bins/miraint.mips</url>
+    <url>http://86.54.42.154/bins/miraint.mpsl</url>
+    <url>http://86.54.42.154/bins/miraint.ppc</url>
+    <url>http://86.54.42.154/bins/miraint.sh4</url>
+    <url>http://86.54.42.154/bins/miraint.spc</url>
+    <url>http://86.54.42.154/bins/miraint.x86</url>
     <url>http://87.120.84.39/txt/xxdquuorm1vd3an.exe</url>
     <url>http://87.246.33.1:9601/av.scr</url>
     <url>http://87.246.33.1:9601/video.scr</url>
@@ -186,6 +211,7 @@
     <url>http://113.231.100.222:55835/i</url>
     <url>http://113.238.71.125:40072/i</url>
     <url>http://114.76.199.159:8081/photo.lnk</url>
+    <url>http://115.48.145.62:49864/bin.sh</url>
     <url>http://115.49.64.232:37020/i</url>
     <url>http://115.50.70.57:50528/i</url>
     <url>http://115.50.92.82:56800/bin.sh</url>
@@ -205,6 +231,7 @@
     <url>http://118.251.20.110:55194/bin.sh</url>
     <url>http://119.116.143.82:59893/i</url>
     <url>http://119.118.50.239:43421/bin.sh</url>
+    <url>http://119.180.110.33:60692/i</url>
     <url>http://120.24.59.15:8888/push</url>
     <url>http://120.27.131.3/visit.js</url>
     <url>http://120.78.74.63:11111/visit.js</url>
@@ -227,6 +254,8 @@
     <url>http://124.70.154.188/ca</url>
     <url>http://124.131.90.50:47519/bin.sh</url>
     <url>http://124.131.90.50:47519/i</url>
+    <url>http://124.133.189.146:50758/bin.sh</url>
+    <url>http://125.40.86.53:56176/bin.sh</url>
     <url>http://125.43.58.87:54035/i</url>
     <url>http://125.45.67.199:52218/i</url>
     <url>http://129.28.177.133:8888/supershell/login/</url>
@@ -265,6 +294,7 @@
     <url>http://176.46.152.62:5858/8088da70c9d74b18aaa9c25e7334b986_crypted_build.exe</url>
     <url>http://178.16.55.189/files/380743829/ufocvam.exe</url>
     <url>http://178.16.55.189/files/748049926/2vpcrpp.exe</url>
+    <url>http://178.16.55.189/files/1088148010/sxeoczr.exe</url>
     <url>http://178.16.55.189/files/5089917904/fc7zg1f.exe</url>
     <url>http://178.16.55.189/files/5917492177/svpnpru.exe</url>
     <url>http://178.16.55.189/files/7693449169/x2jxjtd.exe</url>
@@ -315,6 +345,7 @@
     <url>http://195.177.94.233:88/y</url>
     <url>http://195.222.109.35:9989/photo.scr</url>
     <url>http://196.189.101.82:52281/i</url>
+    <url>http://196.251.107.104/dmtx.exe</url>
     <url>http://196.251.114.38/pages/login.php</url>
     <url>http://198.23.177.219/siu/pin.php</url>
     <url>http://200.59.86.12:52881/i</url>
@@ -417,6 +448,20 @@
     <url>http://gbtak.ir/wp-content/846569297734.jpg</url>
     <url>http://gfkuwflbhsjdabnu4nfukerfqwlfwr4rw.ringbalor.com/4360e2c3604f2e85</url>
     <url>http://globalvoice.mobi</url>
+    <url>http://hk003.ccwink.cc/arm</url>
+    <url>http://hk003.ccwink.cc/arm4</url>
+    <url>http://hk003.ccwink.cc/arm5</url>
+    <url>http://hk003.ccwink.cc/arm7</url>
+    <url>http://hk003.ccwink.cc/dvr.sh</url>
+    <url>http://hk003.ccwink.cc/mips</url>
+    <url>http://hk003.ccwink.cc/mpsl</url>
+    <url>http://hk03.akebi.cc/arm</url>
+    <url>http://hk03.akebi.cc/arm4</url>
+    <url>http://hk03.akebi.cc/arm5</url>
+    <url>http://hk03.akebi.cc/arm7</url>
+    <url>http://hk03.akebi.cc/dvr.sh</url>
+    <url>http://hk03.akebi.cc/mips</url>
+    <url>http://hk03.akebi.cc/mpsl</url>
     <url>http://investment.kumbaraan.biz.id/jquery-3.3.1.min.js</url>
     <url>http://lolzone.lol</url>
     <url>http://mail.exevelerres.com/af.html</url>
@@ -515,6 +560,7 @@
     <url>https://28p.frostn0de.ru/rha6od2w</url>
     <url>https://28p.frostn0de.ru/rvzi33qn</url>
     <url>https://34.92.137.73/ptj</url>
+    <url>https://37msl.t1nkercove.ru/csdlkfjb</url>
     <url>https://38.47.123.60/dot.gif</url>
     <url>https://46.29.238.160/</url>
     <url>https://46.62.223.126/</url>
@@ -529,6 +575,8 @@
     <url>https://59.110.6.123/visit.js</url>
     <url>https://60.28.220.196/en-us/silentauth</url>
     <url>https://64iahnunyhf6ph6qvakjp22a3j6wlvl4sdmbh6elwri6up5gpnm7xkyd.onion:33960/</url>
+    <url>https://65w.g-1-zmotrail.ru/0zacccbc</url>
+    <url>https://65w.g-1-zmotrail.ru/trojvjxq</url>
     <url>https://75.wave5tone.ru/du6xu3kr</url>
     <url>https://75.wave5tone.ru/g5ka34wn</url>
     <url>https://78.47.61.36/</url>
@@ -839,6 +887,8 @@
     <url>https://mind.cloudn0de.ru/srnmfg2c</url>
     <url>https://motorans.com/account.aspx</url>
     <url>https://msgtrcrane.com</url>
+    <url>https://mug.t1nkercove.ru/3p8kazpl</url>
+    <url>https://mug.t1nkercove.ru/uvwjwmdl</url>
     <url>https://mytecbiz.org/go/a8b87aed-1575-4d89-b503-974f4e932152</url>
     <url>https://n8a.lightw1nd.ru/00qtsr8k</url>
     <url>https://n8a.lightw1nd.ru/u16f6xqd</url>
