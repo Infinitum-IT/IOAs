@@ -236,6 +236,7 @@ http://143.20.37.250/fantazy.m68k
 http://144.48.121.4:60286/i
 http://144.208.127.145/logout.php
 http://146.103.53.43/sakura.sh
+http://147.45.179.181/assets/%d0%a0%d0%b0%d0%b4%d0%b0%d1%80%20%d0%94%d0%9f%d0%a1.apk
 http://148.135.72.115/_/scs/mail-static/_/js/
 http://151.237.36.1:4940/photo.lnk
 http://151.237.67.1:4215/av.lnk
@@ -260,6 +261,7 @@ http://172.233.50.222/bd2eb4cdf1154a77.php
 http://175.151.103.232:56245/i
 http://176.46.152.21/72024bc494bfc6ba.php
 http://176.46.152.62:5858/8088da70c9d74b18aaa9c25e7334b986_crypted_build.exe
+http://178.16.55.189/files/380743829/ufocvam.exe
 http://178.16.55.189/files/748049926/2vpcrpp.exe
 http://178.16.55.189/files/5089917904/fc7zg1f.exe
 http://178.16.55.189/files/5917492177/svpnpru.exe
@@ -280,6 +282,16 @@ http://182.124.167.221:56843/bin.sh
 http://182.127.64.113:46143/bin.sh
 http://182.127.100.17:53807/i
 http://185.95.156.22/
+http://185.143.145.151/bins/arm4
+http://185.143.145.151/bins/arm5
+http://185.143.145.151/bins/arm6
+http://185.143.145.151/bins/arm7
+http://185.143.145.151/bins/m68k
+http://185.143.145.151/bins/mips
+http://185.143.145.151/bins/mpsl
+http://185.143.145.151/bins/ppc
+http://185.143.145.151/bins/sh4
+http://185.143.145.151/bins/x86
 http://185.146.146.220:9989/av.lnk
 http://185.147.124.40/capcha.html
 http://185.177.239.247
@@ -325,6 +337,14 @@ http://213.209.129.92/bins/owari.mpsl
 http://213.209.129.92/bins/owari.spc
 http://213.209.129.92/bins/owari.x86_64
 http://213.209.129.92/lickmynutsnigah.sh
+http://213.209.143.48/arm4
+http://213.209.143.48/arm5
+http://213.209.143.48/arm6
+http://213.209.143.48/arm7
+http://213.209.143.48/hmips
+http://213.209.143.48/mpsl
+http://213.209.143.48/ppc
+http://213.209.143.48/sh4
 http://213.209.157.207/skido/airforceeee.ps1
 http://213.209.157.207/skido/encrypted.ps1
 http://213.209.157.207/skido/handd.ps1
@@ -518,6 +538,8 @@ https://94.103.86.181/visit.js
 https://94.154.35.238/sweetwhore/five/pvqdq929bsx_a_d_m1n_a.php
 https://106.52.154.100:8888/supershell/login/
 https://107.173.152.144:8888/
+https://109.107.168.159/assets/%d0%a0%d0%b0%d0%b4%d0%b0%d1%80%20%d0%94%d0%9f%d0%a1.apk
+https://109.107.168.159/download-apk?tks=tks=171225095613
 https://110.40.184.247/ca
 https://113.31.106.106/preserve/extranet/lff00fq6u2h0
 https://116.196.82.90/match
@@ -603,6 +625,8 @@ https://bluetreewater.com/useraccount.aspx
 https://boltsreach.com/go/83afb110-50f2-4b29-a93e-15e37801c7e2
 https://bq.c0pperknit.ru/1eq7wa2h
 https://bq.c0pperknit.ru/yuuaqzyf
+https://bramble.bramblefix.ru/2e78z0fk
+https://bramble.bramblefix.ru/swwi0dgm
 https://bridge.stormm1nt.ru/37c40z63
 https://bridge.stormm1nt.ru/r1zm9x39
 https://bryncoed.com/9x7x.js
@@ -681,8 +705,12 @@ https://doudouni13.top/
 https://doudouni15.top/
 https://doudouni18.top/
 https://dp-dev-dist.azureedge.net/https.js
+https://draft.mon2r5chemer.ru/5c0emi96
+https://draft.mon2r5chemer.ru/v6aazwgw
 https://drift.darkf1eld.ru/69trsuu8
 https://drift.darkf1eld.ru/rthzvlpr
+https://drive.google.com/uc?export=download&id=1df4s-k3tg2cgvvqdeiknayte2acsv3oz
+https://drive.google.com/uc?export=download&id=1dtizvoeymssvvwt0holwwtibmpxi3_ps
 https://drive.google.com/uc?export=download&id=1mkgktkjhwxrtisxlow_f7dfov6u-9nnq
 https://drive.google.com/uc?export=download&id=1qgu-v_2pws98iqq3x7japxah1sv3ypyl
 https://e91n.darkf1eld.ru/besfhtft
@@ -727,6 +755,7 @@ https://ft.rainst0rm.ru/9w6iu27k
 https://ft.rainst0rm.ru/zgsxpyfl
 https://g4.x-6kox.ru/wf7t3h1w0f.sh
 https://gamebalri.com/go/6818d61d-1f2e-4bc0-a98b-c63669acc41f
+https://gamma.bramblefix.ru/tdwf240h
 https://gawanjaneto.com/go/7b4c672a-7787-45cc-913b-1f2f9108d002
 https://gawanjaneto.com/go/180f58b8-38df-46cb-a0d2-d6f12d8aa8a8
 https://gb.cloudm1x.ru/4z8ajl2m
@@ -761,6 +790,8 @@ https://ia601702.us.archive.org/9/items/optimized_msi_20251214_2105/optimized_ms
 https://ikzct.sp1nterpad.ru/dy1ns67q
 https://ikzct.sp1nterpad.ru/m9m6im86
 https://impressflow.com/go/f7d8c7fb-c416-4972-94cd-2f1ede1bac38
+https://inner.se1fve5ky.ru/8etkjvyd
+https://inner.se1fve5ky.ru/vg10q4e0
 https://insigelo.com/go/0e94e3bf-65a0-476a-b00e-5ababc6ff856
 https://insigelo.com/go/96f84023-dd9d-4331-9788-5705babb7f0c
 https://insigelo.com/go/fecdc64b-280d-4ee1-9f28-96efb38acb15
@@ -817,6 +848,8 @@ https://nexus.cloudm1x.ru/9lcnvicw
 https://nexus.cloudm1x.ru/mc6dkprm
 https://node.skysh1ft.ru/5747r09c
 https://node.skysh1ft.ru/iymy78of
+https://nova.bramblefix.ru/68brbykm
+https://nova.bramblefix.ru/xwxkcnxw
 https://nova.darkf1eld.ru/51svjv48
 https://nova.darkf1eld.ru/ihf5zhug
 https://nova.quartz-nibble.ru/5b0h9088
@@ -832,6 +865,8 @@ https://offshorereview.com/wp-admin/includes/noop.php
 https://og1.in/2rxzb3
 https://oh.cpc8u.ru/jy7se3m7hd.md5
 https://omaxtrans.com
+https://omega.sn1pbarrel.ru/3su75ofi
+https://omega.sn1pbarrel.ru/n7ywsphb
 https://or.vzj1o.ru/xelyju46kd.md5
 https://orderconfirmating.symmetric.buzz/?df=zuvkmn&submissionguid=e06a1f83-c24e-4106-b415-d2f43a06a048
 https://orderspecification.tekfenconstruction.buzz/?6bi=amaph&submissionguid=e2ce33ea-ee47-4829-882c-592217dea521
@@ -858,7 +893,10 @@ https://play.google.com/store/apps/details?id=com.ykb.android
 https://play.google.com/store/apps/details?id=com.ziraat.ziraatmobil
 https://play.google.com/store/apps/details?id=tr.com.sekerbilisim.mbank
 https://playyourbeat.com/xmlrpc.php
+https://plot.mon2r5chemer.ru/aknkt1h5
 https://pm7.x-6kox.ru/ma1qpb7cly.sh
+https://polonyauniversiteleri.com.tr/samoto/annrqsjdtjwz230.bin
+https://polonyauniversiteleri.com.tr/samoto/juveltwr.lpk
 https://pp5.frostn0de.ru/hb045hco
 https://pp5.frostn0de.ru/vrp6kl0v
 https://privatemeld.com/go/014e411a-91a4-44b3-9da2-5954404438dc
@@ -878,6 +916,8 @@ https://qb3oaq.bl.files.1drv.com/y4mhrkxcvsnkeazyl8ksgjxxw3y4efgcytss_t5wi6fefz3
 https://qjx5z.jazzm1s8uid.ru/cfz4dsqq
 https://qjx5z.jazzm1s8uid.ru/yxh9xivf
 https://qm9.c-3dax.ru/0cbq19wrw4.sh
+https://quartz.sn1pbarrel.ru/du7b3vki
+https://quartz.sn1pbarrel.ru/kzrz0mks
 https://quickresource.xyz/vwbhlwjg/
 https://r-lien.com
 https://r1n.quartz-nibble.ru/s39iaxk2
@@ -901,10 +941,13 @@ https://ricardo.aljiri.es/ricardo/captchav4de/
 https://rkbaienfurt.de/xmlrpc.php
 https://romancezone.one/?u=7mkpd0d&o=ex3wmkx&t=<encrypted-ref-domain>
 https://rootrevive.xyz/cvm/index.html
+https://ruse4.mon2r5chemer.ru/pzzu5sgj
 https://s28z.cloudm1x.ru/m2osvrmk
 https://s28z.cloudm1x.ru/mabbnr6b
 https://sagarpatil.bhsupportgt8.com
 https://satisfiedweb.com/go/3710d145-158f-4faa-942f-467142fd9201
+https://scheme.mon2r5chemer.ru/h5u9fldi
+https://scheme.mon2r5chemer.ru/jzcvudei
 https://scrutinycheck.cash/go/180f58b8-38df-46cb-a0d2-d6f12d8aa8a8
 https://scrutinycheck.cash/go/f94e2fd6-3569-4d2d-b596-5e07f79a5818
 https://sea0123.malaysiatiktok.top/
@@ -953,6 +996,7 @@ https://smartlinkoffer.com/go/15ef9db0-585b-4c85-9ffc-a2b6e81c4bfa
 https://smartlinkoffer.com/go/6754805d-41c5-46b7-929f-6655b02fce2c
 https://smartlinkoffer.com/go/b11f973d-01d4-4a5b-8af3-139daaa5443f
 https://solidarityinsaya.com
+https://spark.fl0wlatch.ru/bty4wys2
 https://spark.racketloom.ru/5pi1xq97
 https://spark.racketloom.ru/fgbhps7a
 https://spotconningo.com/go/3119e6d0-9df0-4116-816f-0ff62631557b
@@ -1036,6 +1080,7 @@ https://vanshitref.com/go/e594bfab-e401-456c-a4fc-63d70055ff5b
 https://verticbuzz.com/go/ca526b93-0797-4fd6-b107-fdf823a5badb
 https://vigaspino.com/2doc5/index.php?submissionguid=093410a5-c228-4ddf-890c-861cdc6fe5d8
 https://vigaspino.com/2doc5/index.php?submissionguid=1d51a08d-cf55-4146-8b5b-22caa765ac85
+https://vigil.se1fve5ky.ru/rw5rvb9e
 https://vomc.qeanonsop.xyz/?hh5=iy&username=ian@deloitte.es
 https://vottermrkw.shop/api
 https://vseq.darksh1ft.ru/1q7k3yw9
@@ -1050,6 +1095,7 @@ https://weird.fogtangent.ru/qklzpaa4
 https://weird.fogtangent.ru/so5mv3vz
 https://weston-bridge.com/i/?c3y9z2vuzxjhbczyptyyjnvpzd1vu0vsmdiwnjiwmjvvndewnjaymdmmcz04qq==n012...
 https://westreamdaily.com/go/2912600c-ec64-47fd-93cd-d7172bc29206
+https://wind.sn1pbarrel.ru/dushpjsh
 https://work.cloudn0de.ru/akr39kp6
 https://work.cloudn0de.ru/pc5o5evu
 https://wowart.vn/xmlrpc.php
@@ -1066,6 +1112,8 @@ https://www.qianxin.info/jquery-3.3.1.min.js
 https://www.sg-gsc.com
 https://www.synphaet.co.th/your-products/previous-purchases/all-invoices/
 https://wyantgroup.com/xmlrpc.php
+https://x2.bramblefix.ru/5rj6iy7w
+https://x2.bramblefix.ru/u9xnhbv5
 https://xmg102.wxlmail.com/
 https://xps.pigeonforgetnrestaurant.com/
 https://xps.wallyapp.xyz/
@@ -1074,6 +1122,8 @@ https://xthz.softc0re.ru/pye10txw
 https://xunleicloud.com:8443/ptj
 https://y.x-6kox.ru/dcwil62hpy.sh
 https://y.x-6kox.ru/emkj9xt8xu.sh
+https://yfzsx.sn1pbarrel.ru/6my6gxm7
+https://yfzsx.sn1pbarrel.ru/s8m2yp4x
 https://yourtruelover.com/go/76c79b3b-c3bd-409a-9f9d-d25f984b6ac5
 https://yourtruelover.com/go/d05741b5-5782-4882-b0d0-d5cbf5c14f58
 https://ys.jazzm1s8uid.ru/wy3tyazj
