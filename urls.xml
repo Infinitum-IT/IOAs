@@ -90,6 +90,11 @@
     <url>http://45.42.160.55/</url>
     <url>http://45.91.202.195:4173/zazapaza.exe</url>
     <url>http://45.125.66.56/arm4</url>
+    <url>http://45.132.180.48/arm4</url>
+    <url>http://45.132.180.48/arm5</url>
+    <url>http://45.132.180.48/arm7</url>
+    <url>http://45.132.180.48/mips</url>
+    <url>http://45.132.180.48/mpsl</url>
     <url>http://45.134.26.131/kawt2qxfppuenm/login.php</url>
     <url>http://45.135.194.45/linux_amd64</url>
     <url>http://45.135.194.45/linux_arm7</url>
@@ -125,9 +130,11 @@
     <url>http://59.96.136.249:43921/bin.sh</url>
     <url>http://59.96.136.249:43921/i</url>
     <url>http://59.96.143.161:47701/i</url>
+    <url>http://60.18.75.161:46824/bin.sh</url>
     <url>http://60.22.18.187:54526/bin.sh</url>
     <url>http://60.23.73.197:42040/i</url>
     <url>http://60.204.186.143:10010/pixel.gif</url>
+    <url>http://61.1.239.39:38618/mozi.m</url>
     <url>http://61.49.60.222:81/av.scr</url>
     <url>http://61.52.108.164:42939/bin.sh</url>
     <url>http://61.52.173.239:34298/bin.sh</url>
@@ -243,13 +250,17 @@
     <url>http://110.36.0.137:47188/i</url>
     <url>http://110.36.15.184:43465/bin.sh</url>
     <url>http://110.36.15.190:42911/bin.sh</url>
+    <url>http://110.37.11.215:43038/bin.sh</url>
+    <url>http://110.37.11.215:43038/i</url>
     <url>http://110.37.25.195:51517/i</url>
     <url>http://110.37.52.73:41567/bin.sh</url>
     <url>http://110.37.52.73:41567/i</url>
+    <url>http://110.37.64.24:41573/i</url>
     <url>http://110.37.71.174:42495/bin.sh</url>
     <url>http://110.37.100.132:41102/bin.sh</url>
     <url>http://110.37.100.132:41102/i</url>
     <url>http://110.38.222.159:57858/i</url>
+    <url>http://110.39.226.242:42919/i</url>
     <url>http://110.39.238.66:37707/bin.sh</url>
     <url>http://110.39.242.156:57571/bin.sh</url>
     <url>http://110.39.244.198:46954/i</url>
@@ -297,6 +308,7 @@
     <url>http://113.231.217.132:37688/i</url>
     <url>http://113.238.12.137:38144/i</url>
     <url>http://113.238.71.125:40072/i</url>
+    <url>http://113.239.251.105:58214/i</url>
     <url>http://114.76.199.159:8081/photo.lnk</url>
     <url>http://114.226.207.0:52240/.i</url>
     <url>http://115.48.145.62:49864/bin.sh</url>
@@ -304,6 +316,7 @@
     <url>http://115.48.161.80:51091/bin.sh</url>
     <url>http://115.49.64.232:37020/i</url>
     <url>http://115.49.75.237:58720/i</url>
+    <url>http://115.49.79.121:51336/bin.sh</url>
     <url>http://115.49.121.192:33842/bin.sh</url>
     <url>http://115.49.208.133:44664/bin.sh</url>
     <url>http://115.50.70.57:50528/i</url>
@@ -323,16 +336,22 @@
     <url>http://115.55.59.178:53082/i</url>
     <url>http://115.55.61.202:54808/i</url>
     <url>http://115.55.132.55:59799/i</url>
+    <url>http://115.55.184.54:48157/i</url>
+    <url>http://115.55.238.31:57023/bin.sh</url>
     <url>http://115.56.45.238:51932/i</url>
     <url>http://115.56.160.89:52111/i</url>
     <url>http://115.57.9.233:44878/i</url>
     <url>http://115.59.93.95:33842/i</url>
     <url>http://115.63.40.57:50255/bin.sh</url>
     <url>http://115.63.146.80:57785/i</url>
+    <url>http://115.63.247.214:51569/bin.sh</url>
     <url>http://116.138.177.26:44440/bin.sh</url>
     <url>http://116.138.243.85:46731/bin.sh</url>
     <url>http://116.139.200.92:49564/bin.sh</url>
+    <url>http://117.204.165.10:34977/bin.sh</url>
     <url>http://117.205.166.149:45859/bin.sh</url>
+    <url>http://117.209.13.199:52144/bin.sh</url>
+    <url>http://117.209.13.199:52144/i</url>
     <url>http://117.209.93.24:51746/i</url>
     <url>http://117.212.56.67:35117/i</url>
     <url>http://117.213.82.221:33655/i</url>
@@ -344,6 +363,7 @@
     <url>http://118.194.233.185/updates.rss</url>
     <url>http://118.251.20.110:55194/bin.sh</url>
     <url>http://119.109.229.63:39953/bin.sh</url>
+    <url>http://119.114.153.106:59653/i</url>
     <url>http://119.116.143.82:59893/i</url>
     <url>http://119.118.50.239:43421/bin.sh</url>
     <url>http://119.119.255.26:52131/bin.sh</url>
@@ -371,6 +391,7 @@
     <url>http://123.5.187.37:58399/bin.sh</url>
     <url>http://123.10.0.189:47379/bin.sh</url>
     <url>http://123.10.0.189:47379/i</url>
+    <url>http://123.11.77.10:38855/bin.sh</url>
     <url>http://123.11.128.195:40055/bin.sh</url>
     <url>http://123.12.19.107:33059/i</url>
     <url>http://123.14.254.99:49793/bin.sh</url>
@@ -407,6 +428,15 @@
     <url>http://139.162.179.170:8080</url>
     <url>http://139.180.136.28:8888/image/ixsbjoskppq</url>
     <url>http://143.20.37.250/fantazy.m68k</url>
+    <url>http://143.20.79.19/arm</url>
+    <url>http://143.20.79.19/arm5</url>
+    <url>http://143.20.79.19/debug.dbg</url>
+    <url>http://143.20.79.19/mips</url>
+    <url>http://143.20.79.19/mpsl</url>
+    <url>http://143.20.79.19/ppc</url>
+    <url>http://143.20.79.19/sh4</url>
+    <url>http://143.20.79.19/spc</url>
+    <url>http://143.20.79.19/x86_64</url>
     <url>http://144.48.121.4:60286/i</url>
     <url>http://144.208.127.145/logout.php</url>
     <url>http://146.103.53.43/sakura.sh</url>
@@ -428,6 +458,7 @@
     <url>http://167.86.108.237/photo.lnk</url>
     <url>http://167.172.107.164:8888/supershell/login/</url>
     <url>http://170.84.134.195:41364/i</url>
+    <url>http://171.235.208.107:46083/bin.sh</url>
     <url>http://171.239.139.62:81/video.scr</url>
     <url>http://172.104.133.212:8880/metrics</url>
     <url>http://172.104.133.212:8880/new_analytics</url>
@@ -439,6 +470,7 @@
     <url>http://175.146.55.153:38841/i</url>
     <url>http://175.146.87.199:53983/bin.sh</url>
     <url>http://175.146.87.199:53983/i</url>
+    <url>http://175.146.165.204:49540/i</url>
     <url>http://175.146.243.254:42675/bin.sh</url>
     <url>http://175.146.243.254:42675/i</url>
     <url>http://175.148.3.232:39941/bin.sh</url>
@@ -455,6 +487,7 @@
     <url>http://178.16.55.189/files/748049926/2vpcrpp.exe</url>
     <url>http://178.16.55.189/files/748049926/glxoj3h.exe</url>
     <url>http://178.16.55.189/files/748049926/hrwqxml.exe</url>
+    <url>http://178.16.55.189/files/748049926/slxbavh.exe</url>
     <url>http://178.16.55.189/files/1088148010/sxeoczr.exe</url>
     <url>http://178.16.55.189/files/1103877553/3rvjdhx.exe</url>
     <url>http://178.16.55.189/files/1103877553/wybzfsx.exe</url>
@@ -607,6 +640,7 @@
     <url>http://219.157.60.158:46674/i</url>
     <url>http://221.13.251.192:48360/bin.sh</url>
     <url>http://221.13.251.192:48360/i</url>
+    <url>http://221.15.8.87:35171/i</url>
     <url>http://221.15.20.128:40397/bin.sh</url>
     <url>http://221.15.20.128:40397/i</url>
     <url>http://221.15.185.73:50037/bin.sh</url>
@@ -614,6 +648,7 @@
     <url>http://221.202.17.161:49494/bin.sh</url>
     <url>http://221.202.185.252:46520/i</url>
     <url>http://222.127.49.90:59770/bin.sh</url>
+    <url>http://222.127.251.99:50221/bin.sh</url>
     <url>http://222.134.173.23:53073/i</url>
     <url>http://222.134.174.54:43941/bin.sh</url>
     <url>http://222.137.123.39:60069/i</url>
@@ -695,6 +730,7 @@
     <url>http://hk03.akebi.cc/mips</url>
     <url>http://hk03.akebi.cc/mpsl</url>
     <url>http://investment.kumbaraan.biz.id/jquery-3.3.1.min.js</url>
+    <url>http://kys.li/get.php?oid=ad9bc13f7f50318a1e7d6f8f95b7f479</url>
     <url>http://lolzone.lol</url>
     <url>http://mail.exevelerres.com/af.html</url>
     <url>http://main-rakuten.com</url>
@@ -911,6 +947,8 @@
     <url>https://bitbucket.org/ffg84883/3r23ruytgfdxz/raw/8ebddd79bb7ef1b9fcbc1651193b002bfef598fd/rapd.txt</url>
     <url>https://bitbucket.org/hawnbzsd/hawnbzsd/downloads</url>
     <url>https://bitbucket.org/hawnbzsd/hawnbzsd31/downloads</url>
+    <url>https://bixfoy.pa5spra8mat.ru/sbm11680</url>
+    <url>https://bixfoy.pa5spra8mat.ru/tm6tskdd</url>
     <url>https://bl555.gratis</url>
     <url>https://bluetreewater.com/data/useraccount.aspx</url>
     <url>https://bluetreewater.com/index.aspx</url>
@@ -974,6 +1012,8 @@
     <url>https://crest.stormm1nt.ru/zn0erip3</url>
     <url>https://d2gknh8igcfman.cloudfront.net/patient-resources</url>
     <url>https://d2715zbmeirdja.cloudfront.net/?__hstc=251652889.fcaff35c15872a69c6757196acd79173.1727206111338.1727206111338.1727206111338.1&amp;__hssc=251652889.158.1727206111338&amp;__hsfp=1134454612&amp;submissionguid=30359eaf-a821-472d-ba17-dd2bd0d96b96</url>
+    <url>https://dafpex.cr1pptit2n.ru/6gyz6br0</url>
+    <url>https://dafpex.cr1pptit2n.ru/udlv5v96</url>
     <url>https://dakiloifhsnuukka.com/work/</url>
     <url>https://dark.lightw1nd.ru/w3yddgny</url>
     <url>https://deliverynetwork.observer/qfast/additionalfilesformeet.zip</url>
@@ -1102,11 +1142,14 @@
     <url>https://gog.nigeriaafricatime.com/</url>
     <url>https://gomail.com.tr/</url>
     <url>https://grupotefex.com/forms-pubs/about-form-w-4/?msclkid=275de1ee6e9c11cb920c879bf6a21339</url>
+    <url>https://gumral.pa5spra8mat.ru/ds9fucun</url>
+    <url>https://gumral.pa5spra8mat.ru/mzzx0z56</url>
     <url>https://gx5xq.cloudn0de.ru/5oqxy8w5</url>
     <url>https://gx5xq.cloudn0de.ru/posivc10</url>
     <url>https://h2x.sn-1-pixel.ru/q4d6zeau</url>
     <url>https://h2x.sn-1-pixel.ru/z7z8plwa</url>
     <url>https://haachan.net</url>
+    <url>https://hastev.c0lombve8et.ru/o76jl3xj</url>
     <url>https://helpmemoverand.com/go/26131470-304e-4f6c-b6dc-1ffd5c5a9930</url>
     <url>https://helpmemoverand.com/go/a895c485-d572-4e80-bd52-9dd3540c81d9</url>
     <url>https://helpmemoverand.com/go/dc3ae9c2-de16-4dc0-b614-b0b36b81f319</url>
@@ -1177,6 +1220,8 @@
     <url>https://loom.quartz-nibble.ru/brzab8dm</url>
     <url>https://loom.quartz-nibble.ru/rzw3bp2v</url>
     <url>https://loop.re5onwi1ling.ru/xyii0uwy</url>
+    <url>https://lorqes.pa5spra8mat.ru/19gsytvg</url>
+    <url>https://lorqes.pa5spra8mat.ru/ldeix2jy</url>
     <url>https://loxbem.m0pin8mute.ru/0fqi1rvq</url>
     <url>https://loxbem.m0pin8mute.ru/hgnqle00</url>
     <url>https://lq4f.racketloom.ru/k46bjix8</url>
@@ -1254,6 +1299,7 @@
     <url>https://pastebin.com/raw/zggki6qq</url>
     <url>https://patch.sp1nterpad.ru/f4yx91og</url>
     <url>https://patch.sp1nterpad.ru/yujxsjs1</url>
+    <url>https://pilzur.c0lombve8et.ru/dled43ca</url>
     <url>https://pingnetnetwork.co.ke//kkkkkkktttt/sbebobless.smi</url>
     <url>https://pinkfels.shop/?t=json&amp;i=01e077f41c42710c07820d85fff21c63&amp;a=11341608982415</url>
     <url>https://pinkfels.shop/?t=json\u0026i=01e077f41c42710c07820d85fff21c63\u0026a=11341608982415</url>
@@ -1360,6 +1406,8 @@
     <url>https://secureporter.com/go/c788f30c-9d6f-4fdd-96bc-1767e250f9c5</url>
     <url>https://seeceafcleaners.co.uk/cert.php</url>
     <url>https://seeceafcleaners.co.uk/wine.php</url>
+    <url>https://sen4ik.pa5spra8mat.ru/69748u19</url>
+    <url>https://sen4ik.pa5spra8mat.ru/wfwdxbms</url>
     <url>https://sensational-valkyrie-686c5f.netlify.app/?e=</url>
     <url>https://separatto.xyz/systeminfo.exe</url>
     <url>https://server3.ninhaine.com/</url>
@@ -1471,6 +1519,8 @@
     <url>https://thorax.ent0molobo1t.ru/7ijmzr0p</url>
     <url>https://thrumble.quartz-nibble.ru/4v1rsbvf</url>
     <url>https://thrumble.quartz-nibble.ru/aiab7yro</url>
+    <url>https://tidvop.pa5spra8mat.ru/ih5aogt8</url>
+    <url>https://tidvop.pa5spra8mat.ru/xyjya2ps</url>
     <url>https://tigvur.m0pin8mute.ru/dbbhfq1o</url>
     <url>https://tikutokis.sbs/tiktok18.apk</url>
     <url>https://tinyurl.com/2fhbvwus</url>
