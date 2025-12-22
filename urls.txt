@@ -56,6 +56,8 @@ http://38.60.216.200/arm7
 http://38.60.216.200/ppc
 http://39.74.85.235:36175/i
 http://39.74.246.35:35826/i
+http://39.79.143.218:43037/bin.sh
+http://39.79.143.218:43037/i
 http://39.90.149.154:46867/bin.sh
 http://39.90.149.154:46867/i
 http://41.110.181.226:45208/bin.sh
@@ -88,6 +90,7 @@ http://42.178.60.143:39682/i
 http://42.179.230.6:56785/bin.sh
 http://42.179.233.23:47202/bin.sh
 http://42.224.7.165:45505/bin.sh
+http://42.224.71.2:54357/bin.sh
 http://42.224.78.182:34715/bin.sh
 http://42.224.109.202:53191/i
 http://42.224.126.23:47851/bin.sh
@@ -134,6 +137,7 @@ http://43.156.137.45/update
 http://43.156.137.45/update.ps1
 http://45.14.244.124/dsa.msi
 http://45.42.160.55/
+http://45.83.207.105/bins/xnxnxnxnxnxnxnxnx86_64xnxn
 http://45.91.202.195:4173/zazapaza.exe
 http://45.125.66.56/arm4
 http://45.132.180.48/arm4
@@ -445,6 +449,7 @@ http://113.189.104.62:9989/video.scr
 http://113.205.168.138:49373/i
 http://113.221.11.135:13187/.i
 http://113.228.111.75:53362/i
+http://113.229.80.83:34671/bin.sh
 http://113.231.100.222:55835/bin.sh
 http://113.231.100.222:55835/i
 http://113.231.112.83:55377/bin.sh
@@ -476,6 +481,8 @@ http://115.50.92.82:56800/i
 http://115.50.93.236:53327/bin.sh
 http://115.50.93.236:53327/i
 http://115.50.135.43:59757/bin.sh
+http://115.50.159.232:54548/bin.sh
+http://115.50.159.232:54548/i
 http://115.51.25.181:49030/bin.sh
 http://115.51.25.181:49030/i
 http://115.51.47.208:39467/i
@@ -502,6 +509,7 @@ http://115.55.244.217:46738/i
 http://115.56.45.238:51932/i
 http://115.56.110.247:39213/bin.sh
 http://115.56.110.247:39213/i
+http://115.56.146.47:55214/bin.sh
 http://115.56.152.189:60916/i
 http://115.56.158.139:59558/i
 http://115.56.160.89:52111/i
@@ -541,6 +549,8 @@ http://117.206.137.125:56378/i
 http://117.209.13.199:52144/bin.sh
 http://117.209.13.199:52144/i
 http://117.209.87.251:44028/bin.sh
+http://117.209.91.145:57088/bin.sh
+http://117.209.91.145:57088/i
 http://117.209.93.24:51746/i
 http://117.209.127.124:46213/bin.sh
 http://117.212.56.67:35117/i
@@ -578,6 +588,7 @@ http://120.78.74.63:11111/visit.js
 http://120.84.212.228:48535/i
 http://121.37.214.255/j.ad
 http://121.41.54.103:1388/dot.gif
+http://121.142.118.201:57172/.i
 http://121.163.139.4:8092/application%20files/jk_order_1_0_0_4/info.zip
 http://121.163.139.4:8092/application%20files/jk_order_1_0_0_28/info.zip
 http://121.163.139.4:8092/application%20files/jk_order_1_0_0_29/info.zip
@@ -603,6 +614,7 @@ http://123.10.174.163:51909/bin.sh
 http://123.11.0.94:36753/bin.sh
 http://123.11.0.94:36753/i
 http://123.11.11.50:37055/i
+http://123.11.54.114:37507/i
 http://123.11.71.88:48714/bin.sh
 http://123.11.77.10:38855/bin.sh
 http://123.11.128.195:40055/bin.sh
@@ -656,12 +668,19 @@ http://125.43.145.246:48530/i
 http://125.43.228.29:53172/i
 http://125.44.39.154:59388/i
 http://125.44.209.217:57897/bin.sh
+http://125.45.9.125:51057/bin.sh
+http://125.45.9.125:51057/i
 http://125.45.65.190:52205/bin.sh
 http://125.45.65.190:52205/i
 http://125.45.67.199:52218/i
 http://125.46.198.16:58461/i
 http://129.28.177.133:8888/supershell/login/
 http://129.226.214.48:10025/pixel.gif
+http://130.12.180.64/4g
+http://130.12.180.64/k.sh
+http://130.12.180.64/kraxe
+http://130.12.180.64/ruck
+http://130.12.180.64/wgets.sh
 http://130.12.180.126/arm7
 http://130.12.180.126/mipsel
 http://130.12.180.127/a.sh
@@ -687,6 +706,18 @@ http://143.20.79.19/ppc
 http://143.20.79.19/sh4
 http://143.20.79.19/spc
 http://143.20.79.19/x86_64
+http://143.20.185.78/arm
+http://143.20.185.78/arm5
+http://143.20.185.78/arm6
+http://143.20.185.78/arm7
+http://143.20.185.78/debug.dbg
+http://143.20.185.78/m68k
+http://143.20.185.78/mips
+http://143.20.185.78/mpsl
+http://143.20.185.78/ppc
+http://143.20.185.78/sh4
+http://143.20.185.78/x86
+http://143.20.185.78/x86_64
 http://144.48.121.4:60286/i
 http://144.208.127.145/logout.php
 http://146.103.53.43/sakura.sh
@@ -714,6 +745,7 @@ http://158.94.210.88/mipsel
 http://167.86.108.237/av.lnk
 http://167.86.108.237/photo.lnk
 http://167.172.107.164:8888/supershell/login/
+http://170.0.60.61:56765/bin.sh
 http://170.84.134.195:41364/i
 http://171.231.131.90:34165/.i
 http://171.235.208.107:46083/bin.sh
@@ -1400,6 +1432,8 @@ https://danzep.tr2chec0rrupt.ru/fp3o0959
 https://dark.lightw1nd.ru/w3yddgny
 https://dark.sunf0rest.ru/4gkr2m2u
 https://dark.sunf0rest.ru/gb6p50eu
+https://daxmor.bunkerle0p2rd.ru/d1pxambr
+https://daxmor.bunkerle0p2rd.ru/lmnu6kq8
 https://deliverynetwork.observer/qfast/additionalfilesformeet.zip
 https://deliverynetwork.observer/qfast/updatemc.zip
 https://delta.re5onwi1ling.ru/2sg60epr
@@ -1546,6 +1580,8 @@ https://grit.sn-1-rlpatch.ru/n16m97a5
 https://grupotefex.com/forms-pubs/about-form-w-4/?msclkid=275de1ee6e9c11cb920c879bf6a21339
 https://gumral.pa5spra8mat.ru/ds9fucun
 https://gumral.pa5spra8mat.ru/mzzx0z56
+https://guzlav.bunkerle0p2rd.ru/81pzi4o0
+https://guzlav.bunkerle0p2rd.ru/bql9bids
 https://gx5xq.cloudn0de.ru/5oqxy8w5
 https://gx5xq.cloudn0de.ru/posivc10
 https://h2x.sn-1-pixel.ru/q4d6zeau
@@ -1575,6 +1611,8 @@ https://human.jazzm1s8uid.ru/8n7kslkx
 https://human.jazzm1s8uid.ru/ligg5ycy
 https://hums0x.juren0ksco1d.ru/9e0yitpt
 https://hums0x.juren0ksco1d.ru/69e2u01z
+https://hyltok.b0rzvorsink2.ru/8758v83q
+https://hyltok.b0rzvorsink2.ru/qca3ks99
 https://ia601702.us.archive.org/9/items/optimized_msi_20251214_2105/optimized_msi.png
 https://ikzct.sp1nterpad.ru/dy1ns67q
 https://ikzct.sp1nterpad.ru/m9m6im86
@@ -1598,6 +1636,8 @@ https://jarqen.b2rtdenia1.ru/3l66dp80
 https://jarqen.b2rtdenia1.ru/gi3l5ps1
 https://jaxbim.buoyc0mp1aint.ru/nw0s96u6
 https://jingle.hollowfizz.ru/1hqkocns
+https://jivtep.bunkerle0p2rd.ru/a9z143x9
+https://jivtep.bunkerle0p2rd.ru/athryqhn
 https://js.mitigize.com/dot.gif
 https://js.msedgeupdate.com/ga.js
 https://js.msedgeupdate.com/load
@@ -1667,6 +1707,8 @@ https://mediamanagerverif.com/go/9626641b-871b-45e1-b360-84e2767326cc
 https://mediamanagerverif.com/go/d3aa1081-e2fd-4bc5-b168-5502eae928f1
 https://merdax.b2rtdenia1.ru/mkbd91mz
 https://merdax.b2rtdenia1.ru/wlxwzg9w
+https://mertuk.incur2b1epity.ru/lobpf873
+https://mertuk.incur2b1epity.ru/u1fprlkt
 https://metqiv.tr2chec0rrupt.ru/vmwsp82w
 https://metro.articu1urb2n.ru/2il6ztnt
 https://metro.articu1urb2n.ru/7lehoy0o
@@ -1686,6 +1728,7 @@ https://mowl1.brambleage.ru/nnyr1k9n
 https://mqgi.skysh1ne.ru/qsh0vjin
 https://mqgi.skysh1ne.ru/smjsvp30
 https://msgtrcrane.com
+https://mufqen.b0rzvorsink2.ru/b1btmj0u
 https://mug.t1nkercove.ru/3p8kazpl
 https://mug.t1nkercove.ru/uvwjwmdl
 https://myrmex3.ent0molobo1t.ru/ctjy97ww
@@ -1738,6 +1781,8 @@ https://pastebin.com/raw/fxzr3jet
 https://pastebin.com/raw/zggki6qq
 https://patch.sp1nterpad.ru/f4yx91og
 https://patch.sp1nterpad.ru/yujxsjs1
+https://pexvur.b0rzvorsink2.ru/aa9wq1v5
+https://pexvur.b0rzvorsink2.ru/b5qbhgbq
 https://pilzur.c0lombve8et.ru/dled43ca
 https://pingnetnetwork.co.ke//kkkkkkktttt/sbebobless.smi
 https://pinkfels.shop/?t=json&i=01e077f41c42710c07820d85fff21c63&a=11341608982415
@@ -1919,6 +1964,7 @@ https://snarl.quark-spoon.ru/d8zizdjv
 https://soft.clearb1te.ru/iyi7jd84
 https://soft.softf0x.ru/euavnbvg
 https://soft.softf0x.ru/hn1jsvj4
+https://sokqiz.bunkerle0p2rd.ru/37nyd647
 https://solidarityinsaya.com
 https://spark.fl0wlatch.ru/bty4wys2
 https://spark.j-1-ngleknob.ru/0gkzcq29
@@ -2070,8 +2116,11 @@ https://weird.fogtangent.ru/qklzpaa4
 https://weird.fogtangent.ru/so5mv3vz
 https://weird.hollowfizz.ru/f2853zf5
 https://weird.hollowfizz.ru/jzj43v0a
+https://werguf.b0rzvorsink2.ru/e5tgli1p
 https://weston-bridge.com/i/?c3y9z2vuzxjhbczyptyyjnvpzd1vu0vsmdiwnjiwmjvvndewnjaymdmmcz04qq==n012...
 https://westreamdaily.com/go/2912600c-ec64-47fd-93cd-d7172bc29206
+https://wifqen.bunkerle0p2rd.ru/l9hc5sa4
+https://wifqen.bunkerle0p2rd.ru/wa26c7u4
 https://wind.mistf1eld.ru/c54xajuj
 https://wind.sn1pbarrel.ru/dushpjsh
 https://wobnix.c1imby2p.ru/as2njjz6
@@ -2125,6 +2174,7 @@ https://zabxuq.tr2chec0rrupt.ru/oxptvw8r
 https://zany.quartzace.ru/crbh1o3y
 https://zany.quartzace.ru/r77mu0ei
 https://zarpi7.m0pin8mute.ru/qzjngblt
+https://zebnux.in.net/wp-content/plugins/wp-rocket/assets/js/lazyload/16.1/lazyload.min.js
 https://zivaministries.org/
 https://zoning.articu1urb2n.ru/1vi72llp
 https://zoning.articu1urb2n.ru/mohcveay
