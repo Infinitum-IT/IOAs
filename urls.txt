@@ -65,6 +65,8 @@ http://38.60.134.241/x86_64
 http://38.60.216.200/arm7
 http://38.60.216.200/ppc
 http://39.65.146.159:47522/i
+http://39.74.7.231:52877/bin.sh
+http://39.74.7.231:52877/i
 http://39.74.85.235:36175/i
 http://39.74.246.35:35826/i
 http://39.74.249.172:45897/bin.sh
@@ -74,6 +76,8 @@ http://39.90.149.154:46867/bin.sh
 http://39.90.149.154:46867/i
 http://41.110.181.226:45208/bin.sh
 http://41.110.181.226:45208/i
+http://41.111.58.68:43850/bin.sh
+http://41.111.58.68:43850/i
 http://41.216.189.149/bins/labelloperc80.arm
 http://41.216.189.149/bins/labelloperc80.mips
 http://41.216.189.149/bins/labelloperc80.mpsl
@@ -170,6 +174,8 @@ http://42.235.188.232:53296/i
 http://42.235.191.13:60106/i
 http://42.238.170.206:34426/bin.sh
 http://42.238.170.206:34426/i
+http://42.239.255.240:51834/bin.sh
+http://42.239.255.240:51834/i
 http://43.129.173.60/cm
 http://43.138.38.26:8888/supershell/login/
 http://43.139.43.172/push
@@ -303,6 +309,7 @@ http://61.53.93.97:37786/i
 http://61.53.135.3:36769/i
 http://61.53.237.190:58671/bin.sh
 http://61.54.69.182:51990/bin.sh
+http://61.54.70.131:35246/i
 http://61.54.191.232:45261/bin.sh
 http://61.137.153.166:53819/bin.sh
 http://61.243.135.226:35366/i
@@ -445,6 +452,7 @@ http://110.36.0.137:47188/i
 http://110.36.0.178:50438/i
 http://110.36.15.184:43465/bin.sh
 http://110.36.15.190:42911/bin.sh
+http://110.36.16.186:48615/bin.sh
 http://110.37.1.162:34927/i
 http://110.37.2.102:35544/bin.sh
 http://110.37.2.102:41726/i
@@ -467,6 +475,8 @@ http://110.37.38.126:60470/bin.sh
 http://110.37.52.73:41567/bin.sh
 http://110.37.52.73:41567/i
 http://110.37.52.120:39138/bin.sh
+http://110.37.57.71:47759/bin.sh
+http://110.37.57.71:47759/i
 http://110.37.59.113:42482/bin.sh
 http://110.37.59.113:42482/i
 http://110.37.59.131:41258/i
@@ -494,6 +504,8 @@ http://110.38.211.109:32864/i
 http://110.38.222.159:57858/i
 http://110.39.226.242:42919/i
 http://110.39.226.242:50740/bin.sh
+http://110.39.228.170:50131/bin.sh
+http://110.39.228.170:50131/i
 http://110.39.237.254:53462/i
 http://110.39.238.66:37707/bin.sh
 http://110.39.242.135:37999/i
@@ -639,6 +651,7 @@ http://115.57.11.7:35490/i
 http://115.57.230.88:46174/bin.sh
 http://115.58.85.158:44695/i
 http://115.58.86.28:46740/i
+http://115.58.88.101:50217/i
 http://115.58.151.236:36963/i
 http://115.59.9.180:47797/bin.sh
 http://115.59.9.180:47797/i
@@ -661,6 +674,7 @@ http://116.138.243.85:46731/bin.sh
 http://116.139.182.150:44821/i
 http://116.139.200.92:49564/bin.sh
 http://117.199.72.241:33041/bin.sh
+http://117.199.179.71:47189/bin.sh
 http://117.200.127.27:56002/bin.sh
 http://117.200.127.27:56002/i
 http://117.200.207.21:42564/bin.sh
@@ -686,8 +700,10 @@ http://117.212.56.67:35117/i
 http://117.213.82.221:33655/i
 http://117.213.89.78:53140/bin.sh
 http://117.216.51.239:52892/i
+http://117.216.61.88:36252/i
 http://117.217.33.243:54125/i
 http://117.223.142.176:54988/bin.sh
+http://117.235.109.75:48283/bin.sh
 http://117.241.197.126:59716/bin.sh
 http://117.241.197.126:59716/i
 http://117.242.192.128:36405/i
@@ -718,6 +734,7 @@ http://119.180.110.33:60692/i
 http://119.186.205.161:43202/bin.sh
 http://119.187.54.30:50823/i
 http://119.189.131.76:42507/i
+http://119.189.246.97:51759/bin.sh
 http://120.24.59.15:8888/push
 http://120.27.131.3/visit.js
 http://120.28.91.101:56594/bin.sh
@@ -1503,6 +1520,7 @@ https://4v.sunf0rest.ru/v6fn80u4
 https://5bqxmurmtkqlzis65uu22aspcuhivb6vpzpcpma5wfl5ngz2ha6oxzqd.onion:18231/
 https://5qjh.frostn0de.ru/c5uhfzqr
 https://5qjh.frostn0de.ru/cnthybrb
+https://5y8t4.t2kec2reujo.ru/m4jng23i
 https://6agzykvu3rjnwpdnky777ffxb5dj4fiemftho4tsoeakp2xa542pj7id.onion:34024/
 https://6cqyk.idi0tnau8h.ru/cj3oe4de
 https://6cqyk.idi0tnau8h.ru/ru32petu
@@ -1514,6 +1532,7 @@ https://6w5w.darksh1ft.ru/5hefuxny
 https://6w5w.darksh1ft.ru/9r3s86z5
 https://6wz.skyf0rge.ru/7elcnauf
 https://6wz.skyf0rge.ru/sxvv54e4
+https://7ew.t2kec2reujo.ru/97oxxsc6
 https://7kqic.corest0rm.ru/77zn0lr8
 https://7kqic.corest0rm.ru/zb4v4pqs
 https://7uy.re5onwi1ling.ru/pdveb8og
@@ -1835,6 +1854,7 @@ https://espersonal.org/doc0024/index.php?submissionguid=96a9b82a-55d3-402d-9af4-
 https://estacaopequenaalemanha.com.br
 https://estate-recipe.com
 https://evy2023website.nohasslebusiness.com
+https://ew.t2kec2reujo.ru/thyrwsrn
 https://f9u.stormm1st.ru/lrhlf53h
 https://facai16.liucaiyun88.top/
 https://fannisho.com/xmlrpc.php
@@ -1930,6 +1950,7 @@ https://gleam.sn-1-pixel.ru/mjakvxl0
 https://glidronix.com/go/8eb5d9be-98ca-42c4-8185-090a299eb3ef
 https://glitch.hollowfizz.ru/5wotsiui
 https://glitch.hush-zigzag.ru/ajj7i5ss
+https://glow.g0rico1ormica.ru/a8lmf6pm
 https://go.4.thejackdawsfly.in/
 https://gobranded.com/xmlrpc.php
 https://godagichi.com/go/10a84a68-b524-4885-adb2-bfbda4c17778
@@ -2123,6 +2144,7 @@ https://mint.skyf0rge.ru/v4vn6top
 https://miqvut.g2erharve5t.ru/5dz2pm0k
 https://miqvut.g2erharve5t.ru/6xe5ii7b
 https://mirxet.bramblezip.ru/y8c0acpi
+https://mist.5lau8htwater.ru/lpcu0onv
 https://mmvzir.ha1fsovnarc0m.ru/h8satmjr
 https://mortar.knurlpocket.ru/uhpcam1j
 https://morxip.plume-vortex.ru/sq30ya46
@@ -2489,6 +2511,7 @@ https://tatemosher.com/cdn-vs/update.php
 https://tazqiv.quartzjolt.ru/4tjwrukz
 https://tazqiv.quartzjolt.ru/wvgrwh1v
 https://tb.stormm1st.ru/7zog43qp
+https://tdh.t2kec2reujo.ru/ds0eawkr
 https://teachingacademy.net:53/assets/zm_bundle.js
 https://teacoffeepremix.in/arquivo_20251215002847.txt
 https://teambuildingtunisie.com
@@ -2524,6 +2547,7 @@ https://trace.c0pperknit.ru/478ixqt1
 https://trace.c0pperknit.ru/gs703hvs
 https://trace.fl-1-ntrelay.ru/7iuy42nt
 https://trace.fl-1-ntrelay.ru/ryak51z8
+https://trace.t2kec2reujo.ru/pr7yxmz9
 https://tracksvista.com/go/b67f38ca-952b-44e3-b463-126a325e85c6
 https://trailsift.com/go/5c881316-6dd0-46cb-b9aa-2d72b614d026
 https://transfer.sh/get/3twvo9/evbccj.png
@@ -2566,6 +2590,7 @@ https://v21nv.hushzigzag.ru/oyle1z8q
 https://vacdiz.bobi1dece4.ru/xnfu7t6j
 https://vanshitref.com/go/e594bfab-e401-456c-a4fc-63d70055ff5b
 https://vazqer.a8ent5ing.ru/osqtemve
+https://vector.g0rico1ormica.ru/gjpohay6
 https://velgor.gethun8le2r.ru/wfhz3vr4
 https://velgor.gethun8le2r.ru/wj4m3dzx
 https://velmar.fl0rinf2t.ru/j1nqhlil
@@ -2675,6 +2700,7 @@ https://zany.quartzace.ru/crbh1o3y
 https://zany.quartzace.ru/r77mu0ei
 https://zarpi7.m0pin8mute.ru/qzjngblt
 https://zebnux.in.net/wp-content/plugins/wp-rocket/assets/js/lazyload/16.1/lazyload.min.js
+https://zf.g0rico1ormica.ru/x7m6txsg
 https://zivaministries.org/
 https://zoning.articu1urb2n.ru/1vi72llp
 https://zoning.articu1urb2n.ru/mohcveay
