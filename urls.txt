@@ -37,6 +37,7 @@ http://27.202.116.5:43570/bin.sh
 http://27.207.92.130:57138/bin.sh
 http://27.207.139.108:43839/bin.sh
 http://27.213.6.213:60053/i
+http://27.213.133.120:44569/i
 http://27.213.135.29:44569/i
 http://27.215.81.218:39859/i
 http://27.215.177.219:36974/bin.sh
@@ -84,6 +85,7 @@ http://38.124.152.33/huhu/titanjr.i686
 http://38.124.152.33/huhu/titanjr.m68k
 http://38.124.152.33/huhu/titanjr.mips
 http://38.124.152.33/huhu/titanjr.mipsl
+http://38.124.152.33/huhu/titanjr.ppc440
 http://38.124.152.33/huhu/titanjr.sh4
 http://38.124.152.33/huhu/titanjr.spc
 http://38.124.152.33/huhu/titanjr.x86_32
@@ -99,6 +101,7 @@ http://39.79.143.218:43037/bin.sh
 http://39.79.143.218:43037/i
 http://39.90.149.154:46867/bin.sh
 http://39.90.149.154:46867/i
+http://41.110.181.226:43473/i
 http://41.110.181.226:45208/bin.sh
 http://41.110.181.226:45208/i
 http://41.111.58.68:43850/bin.sh
@@ -160,6 +163,8 @@ http://42.86.66.219:59682/bin.sh
 http://42.86.106.105:47879/bin.sh
 http://42.86.106.105:47879/i
 http://42.86.137.246:47421/bin.sh
+http://42.86.168.46:50695/bin.sh
+http://42.86.168.46:50695/i
 http://42.87.140.180:53795/i
 http://42.87.186.38:39997/i
 http://42.176.123.172:55347/bin.sh
@@ -223,6 +228,8 @@ http://42.231.91.6:54850/bin.sh
 http://42.231.91.6:54850/i
 http://42.231.208.26:35882/bin.sh
 http://42.231.248.130:35484/bin.sh
+http://42.231.254.158:34200/bin.sh
+http://42.231.254.158:34200/i
 http://42.232.226.150:36806/i
 http://42.232.230.131:55381/bin.sh
 http://42.233.107.95:34261/bin.sh
@@ -232,6 +239,7 @@ http://42.234.151.74:56443/i
 http://42.234.189.185:43407/i
 http://42.234.234.11:34169/i
 http://42.234.234.203:39033/i
+http://42.234.235.157:40277/bin.sh
 http://42.235.38.87:56653/i
 http://42.235.48.237:48020/i
 http://42.235.64.95:57964/i
@@ -379,6 +387,7 @@ http://59.88.44.236:36956/bin.sh
 http://59.88.224.39:38634/i
 http://59.88.233.48:32923/bin.sh
 http://59.92.89.137:41115/bin.sh
+http://59.94.110.22:58070/bin.sh
 http://59.96.136.249:43921/bin.sh
 http://59.96.136.249:43921/i
 http://59.96.140.12:54253/bin.sh
@@ -412,6 +421,7 @@ http://60.23.73.197:42040/i
 http://60.23.75.123:35210/i
 http://60.23.75.250:56967/i
 http://60.23.142.152:36899/bin.sh
+http://60.23.217.179:48696/i
 http://60.23.233.242:42153/bin.sh
 http://60.23.233.242:42153/i
 http://60.23.234.149:35862/i
@@ -454,6 +464,8 @@ http://61.53.88.52:55544/i
 http://61.53.91.50:57742/i
 http://61.53.93.97:37786/bin.sh
 http://61.53.93.97:37786/i
+http://61.53.132.63:55354/bin.sh
+http://61.53.132.63:55354/i
 http://61.53.135.3:36769/i
 http://61.53.138.135:54485/i
 http://61.53.157.236:46526/bin.sh
@@ -569,6 +581,7 @@ http://87.4.91.2:34814/.i
 http://87.120.84.39/txt/xxdquuorm1vd3an.exe
 http://87.121.84.70/hiddenbin/boatnet.arc
 http://87.121.84.70/hiddenbin/boatnet.i486
+http://87.121.84.70/hiddenbin/boatnet.spc
 http://87.246.33.1:9601/av.scr
 http://87.246.33.1:9601/video.scr
 http://88.214.8.232:15378/bin.sh
@@ -798,6 +811,7 @@ http://111.59.254.165:8084/20250807/video.scr
 http://111.127.225.11:42756/i
 http://111.230.44.208/en_us/all.js
 http://111.231.15.198/j.ad
+http://112.132.144.18:51116/bin.sh
 http://112.225.81.88:47055/i
 http://112.237.211.134:48376/bin.sh
 http://112.239.100.194:37766/bin.sh
@@ -815,6 +829,7 @@ http://112.246.113.152:60438/bin.sh
 http://112.246.113.152:60438/i
 http://112.248.26.115:36609/i
 http://112.248.81.8:43432/i
+http://112.248.101.34:45945/i
 http://112.248.105.18:46527/bin.sh
 http://112.248.109.73:45775/i
 http://112.248.187.53:39932/i
@@ -953,6 +968,8 @@ http://115.58.134.220:42662/bin.sh
 http://115.58.135.161:57048/bin.sh
 http://115.58.135.161:57048/i
 http://115.58.151.236:36963/i
+http://115.58.168.92:46894/bin.sh
+http://115.58.168.92:46894/i
 http://115.59.4.94:55365/i
 http://115.59.9.180:47797/bin.sh
 http://115.59.9.180:47797/i
@@ -984,6 +1001,8 @@ http://116.139.182.150:44821/bin.sh
 http://116.139.182.150:44821/i
 http://116.139.200.92:49564/bin.sh
 http://117.192.127.70:58830/bin.sh
+http://117.195.114.115:50605/bin.sh
+http://117.195.114.115:50605/i
 http://117.195.123.193:59216/bin.sh
 http://117.195.123.193:59216/i
 http://117.199.72.241:33041/bin.sh
@@ -1001,6 +1020,7 @@ http://117.205.89.193:38891/bin.sh
 http://117.205.89.193:38891/i
 http://117.205.161.192:58585/i
 http://117.205.166.149:45859/bin.sh
+http://117.205.172.203:33174/bin.sh
 http://117.206.90.126:54411/i
 http://117.206.101.98:50580/bin.sh
 http://117.206.101.98:50580/i
@@ -1130,6 +1150,7 @@ http://123.7.208.72:37049/i
 http://123.7.226.2:34386/bin.sh
 http://123.7.226.2:34386/i
 http://123.8.177.154:55736/bin.sh
+http://123.8.179.117:42341/bin.sh
 http://123.9.247.90:47174/i
 http://123.10.0.26:39255/bin.sh
 http://123.10.0.189:47379/bin.sh
@@ -1308,6 +1329,7 @@ http://130.12.180.34/bins/mips
 http://130.12.180.34/bins/mpsl
 http://130.12.180.34/bins/ppc
 http://130.12.180.34/bins/sh4
+http://130.12.180.34/bins/spc
 http://130.12.180.34/bins/x86
 http://130.12.180.34/bins/x86_64
 http://130.12.180.43/files/454503574/wtwayux.exe
@@ -1499,6 +1521,17 @@ http://178.16.55.189/files/8434554557/ibbf2xv.exe
 http://178.16.55.189/files/8477709027/zphy2yr.exe
 http://178.16.55.189/files/come/random.exe
 http://178.16.55.189/files/re/random.exe
+http://178.128.54.100/bins/arm
+http://178.128.54.100/bins/arm5
+http://178.128.54.100/bins/arm6
+http://178.128.54.100/bins/arm7
+http://178.128.54.100/bins/m68k
+http://178.128.54.100/bins/mips
+http://178.128.54.100/bins/mpsl
+http://178.128.54.100/bins/ppc
+http://178.128.54.100/bins/sh4
+http://178.128.54.100/bins/x86
+http://178.128.54.100/bins/x86_64
 http://178.215.224.252/v10/ukyh.php
 http://179.60.149.194:8080/fdgjsdmt
 http://180.106.31.82:33718/bin.sh
@@ -1535,6 +1568,7 @@ http://182.116.38.77:51875/bin.sh
 http://182.116.38.77:51875/i
 http://182.116.118.48:49806/bin.sh
 http://182.117.68.243:48591/i
+http://182.117.70.36:45668/bin.sh
 http://182.117.77.37:45755/bin.sh
 http://182.117.126.181:49519/i
 http://182.117.165.175:51415/bin.sh
@@ -1652,6 +1686,17 @@ http://185.221.199.206/s-h.4-.sakura
 http://185.221.199.206/x-3.2-.sakura
 http://185.221.199.206/x-8.6-.sakura
 http://185.228.92.38:9989/av.lnk
+http://185.241.208.183/bins/sora.arm
+http://185.241.208.183/bins/sora.arm5
+http://185.241.208.183/bins/sora.arm6
+http://185.241.208.183/bins/sora.arm7
+http://185.241.208.183/bins/sora.m68k
+http://185.241.208.183/bins/sora.mips
+http://185.241.208.183/bins/sora.mpsl
+http://185.241.208.183/bins/sora.ppc
+http://185.241.208.183/bins/sora.sh4
+http://185.241.208.183/bins/sora.spc
+http://185.241.208.183/bins/sora.x86
 http://186.3.78.195/video.scr
 http://186.123.86.15:81/info.zip
 http://188.119.112.7/das.msi
@@ -1781,6 +1826,7 @@ http://218.29.147.197:50543/i
 http://218.59.74.65:37942/i
 http://218.90.76.92:59544/bin.sh
 http://219.154.26.204:37266/i
+http://219.155.10.79:58693/bin.sh
 http://219.155.25.78:47183/i
 http://219.155.57.104:44166/bin.sh
 http://219.155.135.231:43107/i
@@ -1793,6 +1839,7 @@ http://219.155.228.158:46010/i
 http://219.155.248.235:42112/bin.sh
 http://219.155.248.235:42112/i
 http://219.155.252.113:42112/i
+http://219.156.27.202:48238/i
 http://219.156.28.119:44087/i
 http://219.156.34.170:59263/bin.sh
 http://219.156.34.170:59263/i
@@ -1874,6 +1921,7 @@ http://222.140.130.135:47233/i
 http://222.140.159.11:55422/bin.sh
 http://222.140.182.93:41778/bin.sh
 http://222.140.182.93:41778/i
+http://222.140.217.187:44687/i
 http://222.140.219.140:44687/bin.sh
 http://222.141.46.101:53236/i
 http://222.141.75.115:46516/bin.sh
@@ -2074,6 +2122,7 @@ https://3zs4zdszo3lesutdbuenzvlspuh6wljj6eyntv73dxxig3bk2wcskrad.onion:15842/
 https://4d.skyf0rm.ru/cxbc4lo6
 https://4d.skyf0rm.ru/etch0c3e
 https://4jtsmu3u4yrbehjf4rzfwsswhpc7ohs4nrfnlfu3xebteeaf4uv3okyd.onion:37151/
+https://4kgnpztl.deepmi5t.ru/?apikey=hvqzkgfuisisbqcv&activityid=25c57428-f9ca-4a6c-b4b2-017d185914ea&ocid
 https://4lj.n2imenei8hbor.ru/s53feidp
 https://4mapc.racketloom.ru/2qf69hbq
 https://4mapc.racketloom.ru/s9ccux7j
@@ -3178,6 +3227,7 @@ https://toppry.com/owa/dc53vcl3ek3conin12uxmxxlbr44aswvgi
 https://torque.j1tmech2nic.ru/31cuug8v
 https://torque.j1tmech2nic.ru/z7pr3hvn
 https://totalsecllc.com
+https://tqi7q7rf.deepmi5t.ru/?apikey=cltkogdpsdnbwatn&activityid=e61358e5-f254-4eed-ba88-804a8998ae89&ocid
 https://trace.c0pperknit.ru/478ixqt1
 https://trace.c0pperknit.ru/gs703hvs
 https://trace.fl-1-ntrelay.ru/7iuy42nt
