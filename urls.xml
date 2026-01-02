@@ -47,9 +47,12 @@
     <url>http://27.202.24.24:41264/i</url>
     <url>http://27.202.116.5:43570/bin.sh</url>
     <url>http://27.206.188.13:35365/bin.sh</url>
+    <url>http://27.206.221.122:54837/bin.sh</url>
+    <url>http://27.206.221.122:54837/i</url>
     <url>http://27.207.92.130:57138/bin.sh</url>
     <url>http://27.207.114.80:38742/i</url>
     <url>http://27.207.139.108:43839/bin.sh</url>
+    <url>http://27.207.217.144:36912/i</url>
     <url>http://27.213.6.213:60053/i</url>
     <url>http://27.213.133.120:44569/i</url>
     <url>http://27.213.135.29:44569/i</url>
@@ -172,6 +175,7 @@
     <url>http://42.52.204.166:47840/i</url>
     <url>http://42.52.205.2:48530/bin.sh</url>
     <url>http://42.52.208.207:44945/bin.sh</url>
+    <url>http://42.53.2.121:42932/i</url>
     <url>http://42.53.53.102:50350/i</url>
     <url>http://42.53.58.242:42801/bin.sh</url>
     <url>http://42.53.62.62:41829/bin.sh</url>
@@ -238,6 +242,7 @@
     <url>http://42.224.25.246:53930/bin.sh</url>
     <url>http://42.224.71.2:54357/bin.sh</url>
     <url>http://42.224.75.128:42337/bin.sh</url>
+    <url>http://42.224.75.128:42337/i</url>
     <url>http://42.224.78.182:34715/bin.sh</url>
     <url>http://42.224.109.202:53191/i</url>
     <url>http://42.224.120.69:60228/bin.sh</url>
@@ -309,6 +314,7 @@
     <url>http://42.232.57.248:53344/i</url>
     <url>http://42.232.226.150:36806/i</url>
     <url>http://42.232.230.131:55381/bin.sh</url>
+    <url>http://42.233.104.225:41917/bin.sh</url>
     <url>http://42.233.107.95:34261/bin.sh</url>
     <url>http://42.233.107.95:34261/i</url>
     <url>http://42.234.143.189:55287/bin.sh</url>
@@ -343,6 +349,7 @@
     <url>http://42.238.171.219:33662/i</url>
     <url>http://42.238.255.166:49387/bin.sh</url>
     <url>http://42.238.255.166:49387/i</url>
+    <url>http://42.239.153.138:38773/bin.sh</url>
     <url>http://42.239.155.32:43158/bin.sh</url>
     <url>http://42.239.155.32:43158/i</url>
     <url>http://42.239.171.113:37752/bin.sh</url>
@@ -610,6 +617,7 @@
     <url>http://61.53.91.50:57742/i</url>
     <url>http://61.53.93.97:37786/bin.sh</url>
     <url>http://61.53.93.97:37786/i</url>
+    <url>http://61.53.116.36:35153/i</url>
     <url>http://61.53.122.230:40102/bin.sh</url>
     <url>http://61.53.132.63:55354/bin.sh</url>
     <url>http://61.53.132.63:55354/i</url>
@@ -714,6 +722,8 @@
     <url>http://84.252.120.207/ab4g5/josho.spc</url>
     <url>http://84.252.120.207/ab4g5/josho.x86</url>
     <url>http://85.11.144.2:2272/info.zip</url>
+    <url>http://85.12.229.54:51570/bin.sh</url>
+    <url>http://85.12.229.54:51570/i</url>
     <url>http://85.15.111.160:51636/bin.sh</url>
     <url>http://85.106.80.155:42516/bin.sh</url>
     <url>http://85.106.80.155:42516/i</url>
@@ -956,6 +966,8 @@
     <url>http://110.37.95.136:56370/i</url>
     <url>http://110.37.97.128:57978/bin.sh</url>
     <url>http://110.37.97.200:58892/bin.sh</url>
+    <url>http://110.37.100.99:35042/bin.sh</url>
+    <url>http://110.37.100.99:35042/i</url>
     <url>http://110.37.100.132:41102/bin.sh</url>
     <url>http://110.37.100.132:41102/i</url>
     <url>http://110.37.101.252:33609/bin.sh</url>
@@ -973,6 +985,7 @@
     <url>http://110.37.109.32:35025/bin.sh</url>
     <url>http://110.37.109.32:35025/i</url>
     <url>http://110.37.109.50:35247/i</url>
+    <url>http://110.37.120.182:40541/bin.sh</url>
     <url>http://110.37.120.182:41162/bin.sh</url>
     <url>http://110.37.120.182:41162/i</url>
     <url>http://110.37.125.10:56512/i</url>
@@ -982,6 +995,7 @@
     <url>http://110.38.210.32:47177/i</url>
     <url>http://110.38.211.109:32864/bin.sh</url>
     <url>http://110.38.211.109:32864/i</url>
+    <url>http://110.38.217.11:43675/bin.sh</url>
     <url>http://110.38.222.159:48969/bin.sh</url>
     <url>http://110.38.222.159:57858/i</url>
     <url>http://110.39.225.86:50915/bin.sh</url>
@@ -1138,8 +1152,11 @@
     <url>http://115.48.239.65:36240/bin.sh</url>
     <url>http://115.48.239.65:36240/i</url>
     <url>http://115.49.0.121:60806/i</url>
+    <url>http://115.49.5.90:43936/bin.sh</url>
     <url>http://115.49.5.90:43936/i</url>
     <url>http://115.49.5.113:46849/bin.sh</url>
+    <url>http://115.49.5.246:35176/bin.sh</url>
+    <url>http://115.49.5.246:35176/i</url>
     <url>http://115.49.10.125:42315/i</url>
     <url>http://115.49.44.69:37768/i</url>
     <url>http://115.49.64.210:56781/i</url>
@@ -1234,6 +1251,8 @@
     <url>http://115.56.45.238:51932/i</url>
     <url>http://115.56.110.247:39213/bin.sh</url>
     <url>http://115.56.110.247:39213/i</url>
+    <url>http://115.56.113.208:47205/bin.sh</url>
+    <url>http://115.56.113.208:47205/i</url>
     <url>http://115.56.146.47:55214/bin.sh</url>
     <url>http://115.56.152.189:60916/i</url>
     <url>http://115.56.152.192:36769/bin.sh</url>
@@ -1390,6 +1409,7 @@
     <url>http://117.244.38.237:35602/bin.sh</url>
     <url>http://117.245.209.70:33593/bin.sh</url>
     <url>http://117.247.213.187:41924/bin.sh</url>
+    <url>http://117.248.0.172:47732/i</url>
     <url>http://117.248.24.29:57993/i</url>
     <url>http://117.248.253.105:49810/bin.sh</url>
     <url>http://117.248.253.105:49810/i</url>
@@ -1507,6 +1527,8 @@
     <url>http://123.9.119.137:41715/i</url>
     <url>http://123.9.199.150:34015/bin.sh</url>
     <url>http://123.9.247.90:47174/i</url>
+    <url>http://123.9.253.111:36739/bin.sh</url>
+    <url>http://123.9.253.111:36739/i</url>
     <url>http://123.10.0.26:39255/bin.sh</url>
     <url>http://123.10.0.189:47379/bin.sh</url>
     <url>http://123.10.0.189:47379/i</url>
@@ -1533,6 +1555,8 @@
     <url>http://123.12.28.255:35815/i</url>
     <url>http://123.12.101.111:51424/bin.sh</url>
     <url>http://123.12.179.111:41148/bin.sh</url>
+    <url>http://123.12.197.215:48934/bin.sh</url>
+    <url>http://123.12.197.215:48934/i</url>
     <url>http://123.12.225.48:52412/bin.sh</url>
     <url>http://123.12.226.117:48316/bin.sh</url>
     <url>http://123.12.226.117:48316/i</url>
@@ -1600,6 +1624,7 @@
     <url>http://124.95.7.49:41057/i</url>
     <url>http://124.95.16.81:59345/i</url>
     <url>http://124.95.19.160:46385/i</url>
+    <url>http://124.95.90.102:35859/i</url>
     <url>http://124.123.26.174:8895/sshd</url>
     <url>http://124.131.90.50:47519/bin.sh</url>
     <url>http://124.131.90.50:47519/i</url>
@@ -1628,6 +1653,7 @@
     <url>http://125.43.29.92:51197/bin.sh</url>
     <url>http://125.43.32.151:45299/bin.sh</url>
     <url>http://125.43.32.198:36794/bin.sh</url>
+    <url>http://125.43.32.198:36794/i</url>
     <url>http://125.43.45.186:38701/bin.sh</url>
     <url>http://125.43.45.186:38701/i</url>
     <url>http://125.43.58.87:54035/i</url>
@@ -1739,6 +1765,7 @@
     <url>http://130.12.180.34/bins/spc</url>
     <url>http://130.12.180.34/bins/x86</url>
     <url>http://130.12.180.34/bins/x86_64</url>
+    <url>http://130.12.180.43/files/380743829/idx6t6k.exe</url>
     <url>http://130.12.180.43/files/380743829/t20lnor.exe</url>
     <url>http://130.12.180.43/files/454503574/wtwayux.exe</url>
     <url>http://130.12.180.43/files/946643047/hiebmhg.exe</url>
@@ -1749,6 +1776,8 @@
     <url>http://130.12.180.43/files/5561582465/b926rqw.exe</url>
     <url>http://130.12.180.43/files/5765596543/eire7m9.exe</url>
     <url>http://130.12.180.43/files/6608710704/bdjqu09.exe</url>
+    <url>http://130.12.180.43/files/6691015685/sjwwq01.exe</url>
+    <url>http://130.12.180.43/files/6749237131/1kqlgnr.exe</url>
     <url>http://130.12.180.43/files/6749237131/zf0xg5x.ps1</url>
     <url>http://130.12.180.43/files/6881036104/sl7sqfi.exe</url>
     <url>http://130.12.180.43/files/7044575709/g6q6umy.exe</url>
@@ -1756,6 +1785,7 @@
     <url>http://130.12.180.43/files/7449711934/ilivj5u.exe</url>
     <url>http://130.12.180.43/files/7449711934/qhuyug1.exe</url>
     <url>http://130.12.180.43/files/7449711934/qhuyug1.msi</url>
+    <url>http://130.12.180.43/files/7453936223/5gfpjxh.exe</url>
     <url>http://130.12.180.43/files/7557427348/akfqk2s.exe</url>
     <url>http://130.12.180.43/files/7699731621/ippw90s.exe</url>
     <url>http://130.12.180.43/files/7776205823/8abwcs6.exe</url>
@@ -2021,6 +2051,7 @@
     <url>http://182.113.33.254:48859/i</url>
     <url>http://182.113.36.83:51834/bin.sh</url>
     <url>http://182.113.202.130:51800/i</url>
+    <url>http://182.113.204.147:40038/i</url>
     <url>http://182.113.214.191:51197/i</url>
     <url>http://182.113.223.22:51197/i</url>
     <url>http://182.113.223.146:34563/i</url>
@@ -2074,6 +2105,7 @@
     <url>http://182.119.230.239:52416/i</url>
     <url>http://182.121.9.88:52141/i</url>
     <url>http://182.121.14.142:35937/i</url>
+    <url>http://182.121.42.252:45960/i</url>
     <url>http://182.121.44.18:45914/i</url>
     <url>http://182.121.107.152:32831/bin.sh</url>
     <url>http://182.121.107.152:32831/i</url>
@@ -2258,6 +2290,20 @@
     <url>http://196.189.98.77:51544/bin.sh</url>
     <url>http://196.189.101.82:52281/i</url>
     <url>http://196.190.11.194:40840/i</url>
+    <url>http://196.251.100.85/huhu/titanjr.arc</url>
+    <url>http://196.251.100.85/huhu/titanjr.arm</url>
+    <url>http://196.251.100.85/huhu/titanjr.arm6</url>
+    <url>http://196.251.100.85/huhu/titanjr.arm7</url>
+    <url>http://196.251.100.85/huhu/titanjr.i486</url>
+    <url>http://196.251.100.85/huhu/titanjr.i686</url>
+    <url>http://196.251.100.85/huhu/titanjr.mips</url>
+    <url>http://196.251.100.85/huhu/titanjr.mipsl</url>
+    <url>http://196.251.100.85/huhu/titanjr.ppc</url>
+    <url>http://196.251.100.85/huhu/titanjr.ppc440</url>
+    <url>http://196.251.100.85/huhu/titanjr.sh4</url>
+    <url>http://196.251.100.85/huhu/titanjr.spc</url>
+    <url>http://196.251.100.85/huhu/titanjr.x86_32</url>
+    <url>http://196.251.100.85/huhu/titanjr.x86_64</url>
     <url>http://196.251.107.4/h8jfdmdws/plugins/cred.dll</url>
     <url>http://196.251.107.4/h8jfdmdws/plugins/cred64.dll</url>
     <url>http://196.251.107.104/dmtx.exe</url>
@@ -2416,6 +2462,7 @@
     <url>http://220.201.145.18:44157/i</url>
     <url>http://220.202.88.245:44185/bin.sh</url>
     <url>http://220.202.88.245:44185/i</url>
+    <url>http://220.202.90.165:49483/bin.sh</url>
     <url>http://220.202.91.112:38644/bin.sh</url>
     <url>http://221.1.224.60:45437/bin.sh</url>
     <url>http://221.1.224.60:45437/i</url>
@@ -2423,6 +2470,7 @@
     <url>http://221.13.150.252:57456/i</url>
     <url>http://221.13.172.122:41776/bin.sh</url>
     <url>http://221.13.220.246:51415/bin.sh</url>
+    <url>http://221.13.221.232:15628/i</url>
     <url>http://221.13.251.192:48360/bin.sh</url>
     <url>http://221.13.251.192:48360/i</url>
     <url>http://221.14.17.248:49517/i</url>
@@ -2500,6 +2548,8 @@
     <url>http://222.140.130.135:47233/i</url>
     <url>http://222.140.134.84:48994/i</url>
     <url>http://222.140.159.11:55422/bin.sh</url>
+    <url>http://222.140.159.180:58510/bin.sh</url>
+    <url>http://222.140.159.180:58510/i</url>
     <url>http://222.140.182.93:41778/bin.sh</url>
     <url>http://222.140.182.93:41778/i</url>
     <url>http://222.140.187.120:47306/i</url>
