@@ -446,6 +446,7 @@ apex.ddns.net
 apexrnun.com
 api-xmr.yspool.com
 api.aeon-pool.com
+api.aseo99.com
 api.chatboxn.com
 api.hellokittymeowmeow.xyz
 api.ipify.org
@@ -519,10 +520,12 @@ asdhack.no-ip.biz
 asdxcvxdfgdnbvrwe.ru
 aseerg555.no-ip.biz
 aselam.duckdns.org
+asf-sikkeiyjga.cn-shenzhen.fcapp.run
 asia.cryptonight-hub.miningpoolhub.com
 asia.mining.bit.tube
 asia.monero.hashvault.pro
 asistechs.com
+ask-bdtj-selohjszlw.cn-shenzhen.fcapp.run
 askmrpc747bm.mymediapc.net
 asmicareer.com
 asnafearless.duckdns.org
@@ -852,6 +855,7 @@ bytecoin.fairhash.org
 bytecoin.js
 c-r.services
 c.cnc.gay
+c.cseo99.com
 c0d3n4m3.duckdns.org
 c0nscrito.duckdns.org
 c2c.bpone.top
@@ -1409,6 +1413,7 @@ djnmar.no-ip.biz
 dk.ddns.net
 dla.mcv.kr
 dljmp2p.com
+dll.sclbjk.com
 dlzn5.0pe.kr
 dmlfq.press
 dmnb2895.dynu.net
@@ -1626,8 +1631,10 @@ eyys.xyz
 eyysi.top
 eyysm.com
 eyyz.top
+ezbooking.com.tw
 eztesting.no-ip.biz
 ezzat.ddns.net
+f.fseo99.com
 f02783mat0i5r1t.cc
 f3jb5x.top
 f8presser.no-ip.org
@@ -3288,6 +3295,7 @@ mixpools.org
 mjnonek.no-ip.biz
 mkdmcdn.com
 mkrythgfs.duckdns.org
+mlxya.oss-accelerate.aliyuncs.com
 mmbild.se
 mmfff.ddns.net
 mmiig4.ddns.net
