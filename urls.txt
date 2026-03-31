@@ -4708,6 +4708,7 @@ http://server7.padyhost.com/bins/unhanaaw.m68k
 http://server7.padyhost.com/bins/unhanaaw.mpsl
 http://server7.padyhost.com/bins/unhanaaw.x86
 http://service-b0kt7bkd-1307485220.cd.tencentapigw.com/api/x
+http://sfrclak.com:8000
 http://share-eu1.hsforms.com/1wg25r1z-r5gkhy6k-xgzog2dvcv5
 http://smkn1leuwimunding.com/updating.zip
 http://smolcatkgi.shop/endpoint
