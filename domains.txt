@@ -3539,6 +3539,7 @@ mwr999.ddns.net
 mwsniper.no-ip.biz
 mx.rv2o5.ru
 mx0.skuawill.com
+my-automation-a936d-default-rtdb.firebaseio.com
 mybaby.hopto.org
 mycustomipaddress.ddns.net
 myflixerz.to
@@ -5168,6 +5169,7 @@ theblackhacker.ddns.net
 theendofthefuckingworld.duckdns.org
 theflixertv.to
 theghostofdz.no-ip.biz
+thehindus.org
 thehistore.com
 theiao.ddns.net
 thelsb.ddne.net
