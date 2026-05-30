@@ -82,6 +82,7 @@
 55.18.131.34.bc.googleusercontent.com
 62.3a.4t.com
 66.44.4t.com
+67yuefl.creativecommunityinfo
 69dns69.duckdns.org
 69uiu06es5.execute-api.us-east-1.amazonaws.com
 70.fk-9-e-2.ru
@@ -211,6 +212,7 @@ ace-project.org
 achoumeudns.duckdns.org
 achrefayari.no-ip.biz
 acodemix.zapto.org
+acrobat.adobe.com
 activixonlf.no-ip.org
 acwa-apple.com
 ad0.fq520000.com
@@ -268,6 +270,7 @@ afrojack.ddns.net
 afterfive.net
 agafa.no-ip.org
 agegamepay.com
+agents-us4-cloud.acronis.com
 ageofwuxia.com
 ageofwuxia.info
 ageofwuxia.org
@@ -476,6 +479,10 @@ api.xmr.mypool.online
 api.xmr.skypool.xyz
 api.xmrpool.net
 api.xmrpool.xyz
+api1.checkupdatesnow.xyz
+api1.mylabubus.shop
+api2.checkupdatesnow.xyz
+api2.mylabubus.shop
 apimonero.miners.pro
 apisolving.com
 apker.ru
@@ -632,6 +639,7 @@ baba28.duckdns.org
 baba2511.no-ip.biz
 babaamrb.duckdns.org
 babamama.no-ip.biz
+backend.spendingcalculator.xyz
 background-update.azurewebsites.net
 backsprdingmefeb.ddnsfree.com
 backsth.pics
@@ -1043,6 +1051,7 @@ cloud-direct.biz
 cloud.kaspersky-scan.com
 cloud.microsoftsservice.com
 cloudapi.dynv6.net
+cloudapi.stream
 cloudfiles-secure-gov.su
 cloudfront.nowddns.com
 cloudx-x.ddns.net
@@ -1146,6 +1155,7 @@ crafer.grupobonfim.net
 craniosanto.duckdns.org
 crashstrike.com
 creativeadb.com
+creativecommunityinfo.art
 creatorssky.com
 crecil.gruposenhordobonfim.org
 crew.ddns.net
@@ -1510,6 +1520,7 @@ download-version.1-4-9.com
 download-version.1-8-3.com
 download-version.1-45-1.com
 download-version.2-1-9.com
+download.ccleaner.com
 download.get-version.com
 download.last-verison.com
 downloadabledocx.com
@@ -1708,6 +1719,7 @@ fagugum.joopsoa.com
 faguk.podar.co.za
 fahad.noip.me
 failstrike.com
+fairpoint29.com
 fairytas.digital
 fakupelizil.sunuf.co.za
 falconboy.no-ip.biz
@@ -1894,6 +1906,7 @@ frp-1.shirenran.info
 frulinzol.grupobonfim.org
 fsplinter.no-ip.biz
 ftp.concaribe.com
+ftpsystem.xyz
 fu-laravel.onrender.com
 fuck-this.no-ip.biz
 fucker2014.no-ip.biz
@@ -2350,6 +2363,7 @@ htruriz.grupobonfim.net
 http.n-e.kr
 huadong1-aeon.ppxxmr.com
 huawei.duckdns.org
+hub.ivanti.com
 hub.unlimitedcashflowevent.com
 hucreteam.duckdns.org
 huevoltz.duckdns.org
@@ -2383,6 +2397,7 @@ hyperv-time-sync.azurewebsites.net
 hypexfinancial.com
 hyunsubmom.ddns.net
 hywod.press
+i.bb.co
 i4app.top
 i4b6.club
 i4cu.ddns.net
@@ -2443,6 +2458,7 @@ imrpc7987bm.mmafan.biz
 imvast.ddns.net
 imvcatool.com
 inabove.com
+inattv1306.xyz
 incessantlylearn.sexedsheep.net
 indomies.linkpc.net
 industrious-witty-quiver.glitch.me
@@ -3727,6 +3743,7 @@ nosity.ddns.net
 notafraid.ddns.net
 notaoswl.hopto.org
 notaro.hopto.org
+notebooklm-version-upd.squar
 notebooklm-version-upd.squarespace.com
 notoriousdcellkw.shop
 notped.com
@@ -3907,6 +3924,7 @@ oriserver.ddns.net
 orochi.zapto.org
 orrospu.duckdns.org
 osamas.ddns.net
+osconhost.xyz
 osk332.duckdn.org
 othergate.site
 otopoha.duckdns.org
@@ -4134,6 +4152,7 @@ prettilikeopwp.shop
 pretty.ddns.net
 preview.jpainting.ca
 primal.duckdns.org
+primemetrica.com
 printory.kr
 prio.zone
 prisonfinfel.grupobonfim.org
@@ -5259,6 +5278,7 @@ topisbim.top
 toppry.com
 topservicesupdates.com
 toptalentw.top
+torrent.ie.sogou.com
 torrent.serveblog.net
 torubleeodsmzo.shop
 tosusezosetuf.wirut.co.za
@@ -5466,6 +5486,7 @@ us.moneroocean.stream
 us.moriaxmr.com
 us.stratum.viaxmr.com
 us.zepwk111.uk
+us4-cloud.acronis.com
 usa.noesisdata.com
 usaid.cloud
 uscc-hr.com
@@ -5875,6 +5896,7 @@ www.back-dev.hook.app.br
 www.benzlabs.com
 www.birdsvpn.com
 www.bs444.co
+www.caneraktas.com
 www.chaldear.com
 www.coligeme.org
 www.cybereason.xyz
@@ -6192,6 +6214,7 @@ yuanq.top
 yuduba.xyz
 yungask.com
 yuzo.duckdns.org
+yw.enhanceblabber.cc
 ywnjb.siffinance.com
 yzhf1.ddns.net
 z-lib.io
