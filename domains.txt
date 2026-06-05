@@ -2003,6 +2003,7 @@ globals.js
 globalvoice.mobi
 gmaib.top
 gmailsupport.no-ip.biz
+gmaol.com
 gmaster07.duckdns.org
 gmbshop.ru
 gmfus.cloud
@@ -2112,6 +2113,7 @@ growedplay.ddns.net
 growhacked.duckdns.org
 grubhub-support.com
 grubhubsso.com
+gs2a7c5qd9ce8na8d2a7c7j61-yyxy.vercel.app
 gs47.no-ip.biz
 gta900.ddns.net
 gtox07.duckdns.org
@@ -3305,6 +3307,7 @@ mfa-govt.net
 mfacom.org
 mfagov.org
 mfas.pro
+mgestream.net
 mgmresorts-okta.com
 mgrmking.ddns.net
 mgw.jenkaplastik.tr
