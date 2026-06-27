@@ -239,7 +239,6 @@ ace-project.org
 achoumeudns.duckdns.org
 achrefayari.no-ip.biz
 acodemix.zapto.org
-acrobat.adobe.com
 activixonlf.no-ip.org
 acwa-apple.com
 ad0.fq520000.com
@@ -499,7 +498,6 @@ api.aeon-pool.com
 api.aseo99.com
 api.chatboxn.com
 api.hellokittymeowmeow.xyz
-api.ipify.org
 api.minergate.com
 api.moneroocean.stream
 api.moneropool.com
@@ -795,14 +793,12 @@ bitbrowszer.top
 bitbrwoser.fit
 bitbrwoser.top
 bitbrwwser.top
-bitbucket.org
 bitch.no-ip.org
 bitpiez.club
 bitteroser.top
 biwiv.press
 bixiwigat.sunuf.co.za
 bixodil.lazav.co.za
-biznetvigator.com
 bj-1.lcf.icu
 bj.frp.one
 bk.vk.qa
@@ -1042,7 +1038,6 @@ check-document-nid.dtvsf.dns.army
 check-security-update.azurewebsites.net
 check.086k3a.93vf4b71cv.dynv6.net
 checkerdangers.ddns.net
-checkip.dyndns.org
 checko.paperless-korea.one
 checkra1n.hopto.org
 chellebelledesigns.com
@@ -1624,7 +1619,6 @@ du0oakjsbs.dynv6.net
 dubufi.urseghy.com
 dubyl.press
 duckbrhck.duckdns.org
-duckdns.org
 duckdnsaz.duckdns.org
 dudunjrat34.duckdns.org
 dueamuggyshkowsv.shop
@@ -1700,7 +1694,6 @@ emac177.duckdns.org
 email-verification.k5ae0.v6.rocks
 email-verification.wavo4.v6.rocks
 embrj3y4f79.dns.navy
-emirates.net.ae
 emlinkzz.linkpc.net
 emmabeaulieu.com
 emo131986.ddns.net
@@ -2057,7 +2050,6 @@ gemalto.punkdns.pw
 gemini-sso.com
 gemini.1stpagegold.com
 gencoldfire.com
-geoplugin.net
 geotravelsgi.xyz
 ger.no-ip.biz
 gesowonegidilew.yoyep.co.za
@@ -2416,7 +2408,6 @@ hifdyfduguigyu.xyz
 hikonorz.no-ip.org
 hillje.net
 hilobeatch.duckdns.org
-hinet.net
 hippieblissprovising.com
 hiring-interview.com
 hiringarabicregion.azurewebsites.net
@@ -2632,7 +2623,6 @@ ioa.xr-7-a-0.ru
 iojquery.restartyourchoices.com
 iokert.com
 ipfilterdrive.ddns.net
-ipfs.io
 ipsdoc.groups.id
 ipwho.is
 iqiq1099.ddns.net
@@ -4067,7 +4057,6 @@ nirvana06.duckdns.org
 nis.suroot.com
 nisarirakenorom.wirut.co.za
 nisazu.yubit.co.za
-nissan.com.ge
 nistog.lwf63.ar2aqxha855.dns.navy
 nitegibitamina.ragaz.co.za
 niti.herokuapp.com
@@ -4780,7 +4769,6 @@ r4r4.dnsd.info
 r8eege.justonline.shop
 r8r82.ddns.net
 r9.w9k6m9.ru
-r11.o.lencr.org
 rachrachrachrach.no-ip.biz
 rad.thesocialboosters.com
 radar.ddns.net
@@ -4839,7 +4827,6 @@ reallyfreegeoip.org
 realmclient.ddns.net
 realtorpichardo.com
 reboot.duckdns.org
-rebrand.ly
 receitapokemon.duckdns.org
 recharde.ddns.net
 recopar.duckdns.org
@@ -5132,7 +5119,6 @@ security.cloflardg.com
 security.flacgaurd.com
 securyti-windows.ddns.net
 sedexa.gluvoob.com
-sedo.com
 seeee.ddns.net
 seexhacker.duckdns.org
 sefep.colod.co.za
@@ -6619,7 +6605,6 @@ www.secsettingcheck.quest
 www.shaduruanjian8.com
 www.siffinance.com
 www.siriusxm.online
-www.ssllabs.com
 www.stats.ethergases.org
 www.stdhgd.com
 www.stengeling.com
