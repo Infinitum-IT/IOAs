@@ -1900,6 +1900,7 @@ firewire.duckdns.org
 firius.zapto.org
 firix.no-ip.org
 firon.duckdns.org
+firsat-merkezi.xyz
 fishevil.ddns.net
 fisopuzun.ragaz.co.za
 fisun.lovig.co.za
@@ -3111,6 +3112,7 @@ lihtgyimm.com
 liien.top
 liine.fit
 liine.work
+likeupsmm.com
 lilith.no-ip.biz
 lilojelibij.podar.co.za
 limitedtoday.com
