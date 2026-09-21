@@ -236,6 +236,7 @@ account.klaviyo-hr.com
 account.mabeemail.com
 account.resolutions.vu
 account.securian-hr.com
+accounts.occasion.vu
 accumulationeyerwos.shop
 ace-project.org
 achoumeudns.duckdns.org
@@ -329,6 +330,7 @@ ahmedmag.no-ip.biz
 ahmedonehero.no-ip.biz
 ahmedramee.no-ip.biz
 ahmedutopia.no-ip.biz
+ai.eyyochat.com
 aigodmoney009.access.ly
 ail2001.ddns.net
 airetreckytb.ddnet.net
@@ -558,6 +560,7 @@ arnoldlencini.duckdns.org
 arpa.giodnews.com
 arpa.indiadreamdestinations.com
 arriveoxpzxo.shop
+arrowwoodmemoir.org
 arrozdoce1000.dnss.net
 art157.duckdns.org
 arthostme.ddns.net
@@ -727,6 +730,7 @@ batuducks.duckdns.org
 batx.ddns.net
 bawivugugilez.oalroax.com
 baxez.mifuj.co.za
+bayberrygalleon.cc
 bazarunet.com
 bbm-e.com
 bboott.no-ip.info
@@ -856,6 +860,7 @@ bota.lolzone.lol
 botflowe.digital
 botmaster.no-ip.biz
 boubacs11.no-ip.biz
+bouduy.com
 bouma.no-ip.biz
 bowupewofelo.tevav.co.za
 bowuzavokav.norin.co.za
@@ -873,6 +878,7 @@ bqfxs.blogspot.sn
 brambleufer.ru
 brand.7-nenop-38-oy.ru
 brandihx.run
+brandsmat.com
 braproot.no-ip.org
 breakfast.ffiftringg.sbs
 breakson.photo.org
@@ -975,6 +981,7 @@ carlinhosmafioso.duckdns.org
 carlosbagtraq.duckdns.org
 carlosedu70272000.duckdns.org
 carodine.net
+carpatichost.com
 carpetmafia.duckdns.org
 carregadorsemfio.makeup
 casa.lagubagusterbaru.info
@@ -1089,6 +1096,7 @@ claimsmartgear.sa.com
 clari.cloud
 clarifypost.forum
 claronqual.gruposenhordobonfim.org
+clarpix.com
 clashcn.club
 clashcn.top
 clashcn.xyz
@@ -1788,6 +1796,7 @@ exuberanttjdkwo.xyz
 exynosdude.duia.ro
 eyesofgod.duckdns.org
 eyy350.top
+eyyochat.com
 eyyqp.top
 eyys.xyz
 eyysi.top
@@ -1927,6 +1936,7 @@ flashpvp1.ddns.net
 flashvpn.ddns.net
 flewww.duckdns.org
 flex123.0pe.kr
+flinchpoploaderfast.monster
 flixhq.to
 floral-glitter-49120.pktriot.net
 florismanpereira.no-ip.org
@@ -2639,6 +2649,7 @@ intercom-okta.com
 intercomsso.net
 interhclp.com
 interhospitaluae.com
+interseqf.com
 interview-talent.com
 intheshadows.punkdns.pw
 intranet.hellomisterbiznesqq.com
@@ -3052,6 +3063,9 @@ laxuvuloxutiro.xeltuve.com
 laxytrojan.ddns.net
 lc218.com
 lca5n.seusistemafinanceirosa.com.de
+lcik.com
+lcv2.com
+lcw2.com
 lecairtravels.com
 ledger-live.com
 ledgeronbill.com
@@ -4087,6 +4101,7 @@ niiikx.no-ip.biz
 nijrat.ddns.net
 nike-support.com
 nine9manforest.com
+ninjabattlearena.cfd
 ninvoice.nusersec.dns.navy
 ninvoice.tjepqo.5np5cfu3uqi.v6.navy
 ninvoice.vnbz.39cunkk67we.dns.navy
@@ -4591,6 +4606,7 @@ police35cs.dns.navy
 polishuwqiwom.shop
 politiaromana.redirectme.net
 polycom.solutions
+polygon.gateway.tenderly.co
 pometarap.tevav.co.za
 ponekiginalejo.yoyep.co.za
 pool.aeon.hashvault.pro
@@ -5162,6 +5178,7 @@ security-socks.expert
 security-socks777.com
 security.cloflardg.com
 security.flacgaurd.com
+securityalertcaptchacheck.com
 securyti-windows.ddns.net
 sedexa.gluvoob.com
 seeee.ddns.net
@@ -5255,6 +5272,7 @@ shaduruanjian8.com
 shadye.zapto.org
 shahzaib.hopto.org
 shaiya-hemen.duckdns.org
+shakepopdownloadtoday.monster
 shaloodehab.ir
 shams1.ddns.net
 shandpay.top
@@ -5459,6 +5477,7 @@ sso-falconx.com
 sso-klaviyo.com
 sso.ibexgiobal.com
 sssn2188.ddns.net
+stand-medal.com
 standardcertifications.com
 standingcomperewhitwo.shop
 stargate-okta.com
@@ -5721,6 +5740,7 @@ templecharteredowis.shop
 templerrysjzkp.shop
 temprem2021.kozow.com
 tendencctywop.shop
+tenderly.co
 tenedroconts.duck.org
 tenetur.top
 tenetur.xyz
@@ -6080,6 +6100,7 @@ us.zepwk111.uk
 us4-cloud.acronis.com
 usa.noesisdata.com
 usaid.cloud
+usc1.contabostorage.com
 uscc-hr.com
 use-rtkaudioupt.ddnsfree.com
 user-login.userauth.mydns.vc
@@ -6296,6 +6317,7 @@ wasdasdawawwadadwa.zapto.org
 watafox.duckdns.org
 watchlist-verizon.com
 watchthisnow.xyz
+wave-72ca.info
 wavo4.v6.rocks
 wavob.top
 wawa.ddns.net
@@ -6901,6 +6923,7 @@ ydkvitimas.ddns.net
 yekihackers.ddns.net
 yekmal.no-ip.biz
 yelkenlerfiora.duckdns.org
+yenerscreation.com
 yes.ddns.net
 yesyes.casacam.net
 yetibundel.shop
