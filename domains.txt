@@ -6870,6 +6870,7 @@ xmr.prohash.net
 xmr.simka.pw
 xmr.skypool.org
 xmr.suprnova.cc
+xmrig.com
 xmrpool.de
 xmrpool.eu
 xmrpool.net
